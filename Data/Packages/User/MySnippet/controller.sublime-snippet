@@ -1,0 +1,65 @@
+<snippet>
+    <content><![CDATA[
+//活动首字母大写
+class $1ActivityController extends MyController{
+    // 活动ID
+    CONST ACTIVITY_ID = $2;
+    // 礼物ID
+    CONST PID = $3;
+    // 活动标题
+    CONST ACTIVITY_TITLE = '$4';
+    // 活动名称
+    CONST ACTIVITY_NAME = '$5';
+    //登录过滤
+    public function filters(){
+        return array(
+            array(
+                'application.filters.LoginFilter + Follow ',
+            ),
+        )
+    }
+
+    public function actionIndex () {
+        \$this->title  = self::ACTIVITY_TITLE;
+        \$this->layout = '//layouts/commonV3';
+
+        \$this->render('/activity/'.self::ACTIVITY_NAME, array(
+
+        ));
+    }
+
+
+
+
+    //关注功能
+    public function actionAttention(\$mid){
+        //获取当前用户的uid
+        \$uid = CUser::checkLogin();
+        if (!ToolUtils::frequencyCheck('actionAttention', 0.5)) {
+            return ToolUtils::ajaxOut(-200, '操作太频繁，请稍后再试！');
+        }
+        //如果用户没关注过
+        if (!CUserAttention::isAttention(\$uid, \$mid)) {
+            //添加关注
+            \$attResult = CUserAttention::addAttention(\$uid, \$mid);
+            if (!\$attResult) {
+                return ToolUtils::ajaxout(101, ErrorApi::$errMsg);
+            }
+            return ToolUtils::ajaxOut(0, '', array('action'=>'Attention'));
+        //如果用户已经关注过
+        } else {
+            //移除关注
+            \$removeResult = CUserAttention::removeAttention(\$uid, \$mid);
+            if (!\$removeResult) {
+                return ToolUtils::ajaxout(102, ErrorApi::$errMsg);
+            }
+            return ToolUtils::ajaxOut(0);
+        }
+    }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>controller</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

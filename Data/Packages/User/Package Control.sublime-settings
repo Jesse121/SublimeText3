@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"DeleteBlankLines",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"LESS",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Sublimerge 3",
+		"SublimeTmpl",
+		"View In Browser",
+		"Vue Syntax Highlight"
+	]
+}

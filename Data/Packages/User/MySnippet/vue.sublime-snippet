@@ -1,0 +1,33 @@
+<snippet>
+    <content><![CDATA[
+require("../../css/activity/$1.less");
+
+import common from 'common'
+import layer from 'layer'
+import Vue from 'vue'
+import axios from 'axios'
+
+new Vue({
+    el:"#app",
+    data:{
+
+    },
+    computed:{
+
+    },
+    created:function(){
+
+    },
+    mounted:function(){
+
+    },
+    methods:{
+    
+    }
+})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vue</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

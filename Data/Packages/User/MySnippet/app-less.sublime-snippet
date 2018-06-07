@@ -1,0 +1,48 @@
+<snippet>
+    <content><![CDATA[
+@activityName: '$1';
+@bf: 108rem;
+[v-cloak] {
+    display: none;
+}
+
+//水平居中对齐
+.transformCenter() {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+//多余的字符用省略号显示
+.ellipsis() {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+//头像是正方形100%填满
+.avatar {
+    width: 100%;
+    height: 100%;
+}
+
+//滚动更流畅
+body{
+    -webkit-overflow-scrolling:touch;/*ios*/
+}
+
+.bgm(@imgName) {
+    background-image: url('../../img/activity/@{activityName}/@{imgName}');
+}
+
+.sprite1 {
+    background-image: url('../../img/activity/@{activityName}/sprite1.png');
+    background-repeat: no-repeat;
+    background-size: 1080/@bf 1432/@bf;
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>app-less</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.less</scope>
+</snippet>

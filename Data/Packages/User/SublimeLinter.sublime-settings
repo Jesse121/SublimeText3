@@ -1,0 +1,156 @@
+{
+    // Set to true to print extra information in the console.
+    "debug": false,
+
+    // When in the "background" lint mode, this value determines
+    // a delay before a request is send to the linter
+    "delay": 0.3,
+
+    // Available gutter themes:
+    // Blueberry Cross
+    // Blueberry Round
+    // Circle
+    // Danish Royalty
+    // Default
+    // Hands
+    // Knob
+    // Knob Symbol
+    // Koloria
+    // ProjectIcons
+    // Note that you may need to change the "icon" property in "styles"
+    // to an icon in the theme (they usually include "warning" and "error")
+    "gutter_theme": "none",
+
+    // EXPERIMENTAL: See below `demote_while_editing`.
+    "highlights.time_to_idle": 5,
+
+    // EXPERIMENTAL: One of 'none', 'ws_regions', 'warnings'
+    // Essentially picks a predicate fn from `highlights.py` to demote the
+    // visibility of some lint errors while editing (busy). These errors
+    // appear after `time_to_idle` seconds or immediately on save.
+    "highlights.demote_while_editing": "none",
+
+    // EXPERIMENTAL: A typical Sublime scope which gets applied to
+    // the regions while busy. Use the empty string to actually hide
+    // the regions. E.g. try 'comment' to get a soft gray.
+    "highlights.demote_scope": "",
+
+    // Lint Modes determine when the linter is run
+    // background: asynchronously on every change
+    // load_save: when a file is opened and every time it's saved
+    // manual: only when calling the Lint This View command
+    "lint_mode": "background",
+
+    // Example of linter specific settings.
+    // Linter specific settings can also be changed in sublime-project settings.
+    // What settings are available is documented in the readme of the
+    // specific linter plugin.
+    // "linters": {
+    //     "somelinter": {
+    //         "disable": false,
+    //         "args": [],
+    //         "excludes": []
+    //     },
+    //     "somepythonlinter": {
+    //         "python": null,
+    //         "disable": false,
+    //         "args": [
+    //             "--max-complexity", "-1",
+    //             "--max-line-length", "100",
+    //             "--ignore", "E731,E402"
+    //         ],
+    //         "excludes": [],
+    //     }
+    // }
+    "linters": {},
+
+    // Determines what happens when a linter reports a problem without column.
+    // By default, a mark is put in the gutter but no text is highlighted.
+    // If this setting is `true`, the entire line is also highlighted.
+    "no_column_highlights_line": false,
+
+    // Provide extra paths to be searched when locating system executables.
+    "paths": {
+        "linux": [],
+        "osx": [],
+        "windows": []
+    },
+
+    // Show a report for problems on a line by hovering over the gutter.
+    "show_hover_line_report": true,
+
+    // Show a report for problems on a region by hovering over it.
+    "show_hover_region_report": true,
+
+    // Highlight problems in the minimap.
+    "show_marks_in_minimap": true,
+
+    // Display counters in the status bar.
+    // {warning} and {error} will be replaced with the actual numbers.
+    // Set to "" to display nothing
+    "statusbar.counters_template": "W: {warning} E: {error}",
+
+    // Show the messages for problems at your cursor position
+    // {message} will be replaced by the actual messages.
+    // Set to "" to display nothing
+    "statusbar.messages_template": "{messages}",
+
+    // Global styles for all linters.
+    // - mark_style options:
+    //   "none"
+    //   "fill", "outline",
+    //   "solid_underline", "squiggly_underline", "stippled_underline"
+    //   The underline styles are replaced with outlines when there is
+    //   whitespace in the problem region, because underlines aren't drawn
+    //   on whitespace (ST issue #137).
+    // - priority determines which mark is shown in the gutter;
+    //   error marks will still always override warning marks.
+    // - scope is used to determine the color;
+    //   region.<colorish> are automatically generated scopes in ST > 3148.
+    // - types is an array which can contain "warning" and/or "error".
+    // - codes is an array which can contain error codes provided by a linter.
+    // - icon can be:
+    //   one of the default icons: "circle", "dot" or "bookmark"
+    //   or a path to an icon file like (e.g. "Packages/icons/warning.png")
+    //   or "none" to remove the icon
+    //   or one provided by a gutter theme (e.g. "warning" or "error")
+    //      in theme Default: "warning", "error", "cog", "x",
+    //      and "diamond", "heart", "pointer", "square", "star", "triangle" all
+    //      also have an -outline variant.
+    // Note: At least one of those targets is required: types or codes.
+    // Styles can also be specified per linter.
+    "styles": [
+        {
+            "mark_style": "outline",
+            "priority": 1,
+            "scope": "region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter",
+            "icon": "dot",
+            "types": [
+                "warning"
+            ]
+        },
+        {
+            "mark_style": "outline",
+            "priority": 1,
+            "scope": "region.redish markup.deleted.sublime_linter markup.error.sublime_linter",
+            "icon": "dot",
+            "types": [
+                "error"
+            ]
+        }
+    ],
+
+    // Maps variant syntaxes to the syntax that you have a linter for.
+    // The syntax is the name of the syntax definition file, in lower case
+    // Run this in the console to find it: view.settings().get('syntax').lower()
+    "syntax_map": {
+        "html (django)": "html",
+        "html (rails)": "html",
+        "html 5": "html",
+        "javascript (babel)": "javascript",
+        "magicpython": "python",
+        "php": "html",
+        "python django": "python",
+        "pythonimproved": "python"
+    }
+}
