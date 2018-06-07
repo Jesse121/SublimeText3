@@ -1,0 +1,20 @@
+[
+	{
+		"id": "preferences",
+		"children": [
+			{
+				"id": "package-settings",
+				"children": [
+					{
+						"caption": "Autoprefixer",
+						"command": "edit_settings",
+						"args": {
+							"base_file": "${packages}/Autoprefixer/Autoprefixer.sublime-settings",
+							"default": "{\n\t$0\n}\n"
+						}
+					}
+				]
+			}
+		]
+	}
+]

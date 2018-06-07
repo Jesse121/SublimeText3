@@ -1,6 +1,0 @@
-.DS_Store
-.vscode
-*.pyc
-/node_modules
-.jsbeautifyrc
-.editorconfig

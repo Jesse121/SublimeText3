@@ -6,25 +6,14 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"AutoFileName",
+		"Autoprefixer",
 		"BracketHighlighter",
-		"DeleteBlankLines",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"CTags",
 		"DocBlockr",
-		"EditorConfig",
-		"Emmet",
-		"HTML-CSS-JS Prettify",
-		"jQuery",
-		"LESS",
-		"MarkdownEditing",
 		"Package Control",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-eslint",
-		"Sublimerge 3",
-		"SublimeTmpl",
-		"Terminal",
-		"TypeScript",
-		"View In Browser",
-		"Vue Syntax Highlight"
+		"SFTP",
+		"Tagify"
 	]
 }
