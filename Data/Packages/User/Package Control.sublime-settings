@@ -8,6 +8,7 @@
 		"Alignment",
 		"AutoFileName",
 		"BracketHighlighter",
+		"ConvertToUTF8",
 		"DeleteBlankLines",
 		"DocBlockr",
 		"EditorConfig",

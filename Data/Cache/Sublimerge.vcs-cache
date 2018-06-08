@@ -3,9 +3,17 @@
 	{
 		"git":
 		[
-			"D:\\Program Files\\SublimeText",
 			"E:\\Study",
-			"D:\\Program Files\\SublimeText3"
+			"D:\\Program Files\\SublimeText3",
+			"F:\\overseas",
+			"F:\\guojiang\\nginx"
+		],
+		"svn":
+		[
+			"F:\\overseas\\html",
+			"F:\\overseas\\src\\v2",
+			"Z:\\cblive",
+			"F:\\overseas\\beta\\html"
 		]
 	}
 }
