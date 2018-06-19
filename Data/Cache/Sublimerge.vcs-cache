@@ -6,14 +6,23 @@
 			"E:\\Study",
 			"D:\\Program Files\\SublimeText3",
 			"F:\\overseas",
-			"F:\\guojiang\\nginx"
+			"F:\\guojiang\\nginx",
+			"Z:\\static_guojiang_tv\\gulp",
+			"F:\\guojiang\\xingguang\\xingguang",
+			"F:\\guojiang\\xingguang"
 		],
 		"svn":
 		[
 			"F:\\overseas\\html",
 			"F:\\overseas\\src\\v2",
 			"Z:\\cblive",
-			"F:\\overseas\\beta\\html"
+			"F:\\overseas\\beta\\html",
+			"Z:\\static_cblive",
+			"Z:\\static_guojiang_tv",
+			"Z:\\videochat",
+			"F:\\overseas\\trunk\\html",
+			"Z:\\trunk\\static",
+			"Z:\\beta"
 		]
 	}
 }
