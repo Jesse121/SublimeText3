@@ -5,24 +5,29 @@
 		[
 			"E:\\Study",
 			"D:\\Program Files\\SublimeText3",
-			"F:\\overseas",
 			"F:\\guojiang\\nginx",
-			"Z:\\static_guojiang_tv\\gulp",
 			"F:\\guojiang\\xingguang\\xingguang",
-			"F:\\guojiang\\xingguang"
+			"F:\\guojiang\\xingguang",
+			"E:\\Webpack-Vue",
+			"F:\\guojiang\\naus",
+			"F:\\guojiang\\source\\gulp-disk",
+			"F:\\guojiang\\overseas",
+			"E:\\guojiang\\overseas2",
+			"E:\\guojiang\\nginx"
 		],
 		"svn":
 		[
-			"F:\\overseas\\html",
-			"F:\\overseas\\src\\v2",
-			"Z:\\cblive",
-			"F:\\overseas\\beta\\html",
-			"Z:\\static_cblive",
-			"Z:\\static_guojiang_tv",
+			"F:\\guojiang\\naus\\html",
+			"F:\\guojiang\\naus\\static",
+			"F:\\guojiang\\source\\static_guojiang_tv",
+			"F:\\guojiang\\overseas\\src\\v2",
+			"F:\\guojiang\\overseas\\html",
+			"F:\\trade",
+			"F:\\guojiang\\source\\trunk\\static",
+			"E:\\guojiang\\overseas2\\overseas\\src\\v2",
+			"E:\\guojiang\\overseas2\\overseas\\html",
 			"Z:\\videochat",
-			"F:\\overseas\\trunk\\html",
-			"Z:\\trunk\\static",
-			"Z:\\beta"
+			"F:\\guojiang\\source\\beta\\static"
 		]
 	}
 }
