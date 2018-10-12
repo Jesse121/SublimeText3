@@ -28,11 +28,18 @@ from .rename import (
     TypescriptFinishRenameCommand,
     TypescriptRenameCommand
 )
+from .refactor import (
+    TypescriptGetApplicableRefactorsCommand,
+    TypescriptApplyRefactorCommand
+)
 from .build import TypescriptBuildCommand
 from .settings import (
     TypescriptOpenPluginDefaultSettingFile,
     TypescriptOpenTsDefaultSettingFile,
     TypescriptOpenTsreactDefaultSettingFile
+)
+from .organize_imports import (
+    TypescriptOrganizeImportsCommand
 )
 
 __all__ = [
@@ -59,6 +66,9 @@ __all__ = [
     "TypescriptDelayedRenameFile",
     "TypescriptFinishRenameCommand",
     "TypescriptRenameCommand",
+    "TypescriptOrganizeImportsCommand",
+    "TypescriptGetApplicableRefactorsCommand",
+    "TypescriptApplyRefactorCommand",
     "TypescriptSave",
     "TypescriptShowDoc",
     "TypescriptSignaturePanel",

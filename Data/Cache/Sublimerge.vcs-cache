@@ -5,29 +5,35 @@
 		[
 			"E:\\Study",
 			"D:\\Program Files\\SublimeText3",
-			"F:\\guojiang\\nginx",
-			"F:\\guojiang\\xingguang\\xingguang",
-			"F:\\guojiang\\xingguang",
 			"E:\\Webpack-Vue",
-			"F:\\guojiang\\naus",
-			"F:\\guojiang\\source\\gulp-disk",
-			"F:\\guojiang\\overseas",
 			"E:\\guojiang\\overseas2",
-			"E:\\guojiang\\nginx"
+			"E:\\guojiang\\nginx",
+			"F:\\guojiang\\nginx",
+			"F:\\overseas-react",
+			"F:\\guojiang\\xingguang",
+			"F:\\guojiang\\overseas",
+			"F:\\guojiang\\source\\gulp-disk",
+			"E:\\guojiang\\xingguang",
+			"F:\\guojiang\\naus",
+			"D:"
 		],
 		"svn":
 		[
-			"F:\\guojiang\\naus\\html",
-			"F:\\guojiang\\naus\\static",
+			"E:\\guojiang\\overseas2\\overseas\\src\\v2",
+			"E:\\guojiang\\overseas2\\overseas\\html",
 			"F:\\guojiang\\source\\static_guojiang_tv",
 			"F:\\guojiang\\overseas\\src\\v2",
 			"F:\\guojiang\\overseas\\html",
-			"F:\\trade",
 			"F:\\guojiang\\source\\trunk\\static",
-			"E:\\guojiang\\overseas2\\overseas\\src\\v2",
-			"E:\\guojiang\\overseas2\\overseas\\html",
+			"F:\\guojiang\\source\\beta\\static",
+			"F:\\guojiang\\overseas\\dist\\v2",
+			"F:\\guojiang\\source\\trunk\\videochat",
+			"F:\\guojiang\\source\\beta\\videochat",
+			"E:\\trade",
+			"F:\\guojiang\\naus\\html",
+			"F:\\guojiang\\naus\\static",
 			"Z:\\videochat",
-			"F:\\guojiang\\source\\beta\\static"
+			"Z:\\trade_new"
 		]
 	}
 }

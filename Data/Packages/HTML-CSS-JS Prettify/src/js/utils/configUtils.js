@@ -16,12 +16,10 @@ import { isMatchingGlob } from './fileUtils';
 
 // Parses a .jsbeautifyrc json file and returns a sanitized object
 // with a consistent and expected format.
-export const parseJsbeautifyConfig = async filePath =>
-  sanitizeJsbeautifyConfig(await parseJSON5File(filePath));
+export const parseJsbeautifyConfig = async filePath => sanitizeJsbeautifyConfig(await parseJSON5File(filePath));
 
 // Parses the default .jsbeautifyrc json file coming with this plugin.
-export const parseDefaultJsbeautifyConfig = () =>
-  parseJsbeautifyConfig(path.join(ROOT_DIR, '.jsbeautifyrc.defaults.json'));
+export const parseDefaultJsbeautifyConfig = () => parseJsbeautifyConfig(path.join(ROOT_DIR, '.jsbeautifyrc.defaults.json'));
 
 // Clones and extends a given .jsbeautifyrc object with the one located at a
 // file path. If none exists, a clone of the original is returned.
@@ -98,7 +96,7 @@ export const extendJsbeautifyConfigFromEditorConfigInFolders = async (folderPath
   return clone(oldJsbeautifyConfig);
 };
 
-// Clones and extends a given .jsbeautifyrc with some additonal custom options
+// Clones and extends a given .jsbeautifyrc with some additional custom options
 // defined in the "custom" field, which contains globs defining additional
 // prettification rules for certain files paths.
 export const extendJsbeautifyConfigWithCurrentFileMatchRules = (jsbeautifyConfig) => {
@@ -116,7 +114,7 @@ export const extendJsbeautifyConfigWithCurrentFileMatchRules = (jsbeautifyConfig
   return clonedJsbeautifyConfig;
 };
 
-// Clones and extends a given .jsbeautifyrc with some additonal custom options
+// Clones and extends a given .jsbeautifyrc with some additional custom options
 // retrieved from the editor settings.
 export const extendJsbeautifyConfigWithEditorOverrides = (jsbeautifyConfig) => {
   const clonedJsbeautifyConfig = clone(jsbeautifyConfig);
@@ -139,15 +137,14 @@ export const extendJsbeautifyConfigWithEditorOverrides = (jsbeautifyConfig) => {
   return clonedJsbeautifyConfig;
 };
 
-// Clones and extends a given .jsbeautifyrc with some additonal meta-options
+// Clones and extends a given .jsbeautifyrc with some additional meta-options
 // following some specific rules respecting global editor settings.
 export const finalizeJsbeautifyConfig = (jsbeautifyConfig) => {
-  const extendedJsbeautifyConfig =
-    extendJsbeautifyConfigWithCurrentFileMatchRules(
-      extendJsbeautifyConfigWithEditorOverrides(
-        jsbeautifyConfig,
-      ),
-    );
+  const extendedJsbeautifyConfig = extendJsbeautifyConfigWithCurrentFileMatchRules(
+    extendJsbeautifyConfigWithEditorOverrides(
+      jsbeautifyConfig,
+    ),
+  );
 
   return {
     html: {

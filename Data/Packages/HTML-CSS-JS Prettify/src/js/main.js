@@ -9,7 +9,7 @@ import * as constants from './utils/constants';
 import * as stdio from './utils/stdioUtils';
 import * as cutils from './utils/configUtils';
 import * as putils from './utils/pathUtils';
-import { isCSS, isHTML, isJSON, isJS } from './utils/fileUtils';
+import * as futils from './utils/fileUtils';
 
 process.on('uncaughtException', (err) => {
   stdio.err('Uncaught exception', err);
@@ -23,6 +23,8 @@ async function main() {
   stdio.beginDiagnostics();
 
   // Dump some diagnostics messages, parsed out by the plugin.
+  stdio.info(`Using process versions: ${JSON.stringify(process.versions)}`);
+
   stdio.info(`Using editor text temp file: ${constants.USING_EDITOR_TEXT_TEMP_FILE}`);
 
   stdio.info(`Global file rules: ${constants.GLOBAL_FILE_RULES_JSON}`);
@@ -53,25 +55,25 @@ async function main() {
     ? await fs.readFile(constants.EDITOR_TEXT_TEMP_FILE_PATH, { encoding: 'utf8' })
     : constants.EDITOR_TEXT_TEMP_FILE_CONTENTS;
 
-  if (isCSS()) {
+  if (futils.isCSS()) {
     stdio.info('Attempting to prettify what seems to be a CSS file.');
     stdio.endDiagnostics();
     stdio.beginPrettifiedCode();
     stdio.out(beautify.css(bufferContents, finalConfig.css));
     stdio.endPrettifiedCode();
-  } else if (isHTML(bufferContents)) {
+  } else if (futils.isHTML(bufferContents)) {
     stdio.info('Attempting to prettify what seems to be a HTML file.');
     stdio.endDiagnostics();
     stdio.beginPrettifiedCode();
     stdio.out(beautify.html(bufferContents, finalConfig.html));
     stdio.endPrettifiedCode();
-  } else if (isJSON(bufferContents)) {
+  } else if (futils.isJSON(bufferContents)) {
     stdio.info('Attempting to prettify what seems to be a JSON file.');
     stdio.endDiagnostics();
     stdio.beginPrettifiedCode();
     stdio.out(beautify.js(bufferContents, finalConfig.json));
     stdio.endPrettifiedCode();
-  } else if (isJS(bufferContents)) {
+  } else if (futils.isJS(bufferContents)) {
     stdio.info('Attempting to prettify what seems to be a JS file.');
     stdio.endDiagnostics();
     stdio.beginPrettifiedCode();

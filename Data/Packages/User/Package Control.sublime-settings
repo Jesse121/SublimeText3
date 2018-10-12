@@ -1,5 +1,9 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
@@ -29,6 +33,7 @@
 		"Sublimerge 3",
 		"SublimeTmpl",
 		"Terminal",
+		"TortoiseSVN",
 		"TypeScript",
 		"View In Browser",
 		"Vue Syntax Highlight"

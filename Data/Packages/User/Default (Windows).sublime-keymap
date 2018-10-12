@@ -61,6 +61,11 @@
     //ctrl+k, ctrl+2  按层级折叠(代码），数字是层级数
     //ctrl+shift+]    全部展开
     
+    //TortoiseSVN
+    //- [alt+c] : commit current file.
+    //- [alt+u] : update current file.
+    //- [alt+r] : revert current file.
+    
     //jsx emmet
     {
       "keys": ["tab"], 
