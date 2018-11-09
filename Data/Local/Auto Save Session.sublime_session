@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/E/Study/Nodejs/Blog",
+		"/F/guojiang/source/static_guojiang_tv/src/mobile/js/poplayer",
 		"/Z/trade_new",
 		"/F/guojiang/naus",
 		"/E/trade",
@@ -12,11 +14,11 @@
 		"/F/trade/Public/trade-static"
 	],
 	"last_version": 3176,
-	"last_window_id": 196,
+	"last_window_id": 242,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 900.0,
+		"new_window_height": 898.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -24,280 +26,120 @@
 				"selected_items":
 				[
 					[
-						"pay",
-						"payKind"
-					],
-					[
-						"tmp",
-						"tmpPic"
-					],
-					[
-						"file",
-						"fileName"
-					],
-					[
-						"margin",
-						"margin-left\tproperty"
-					],
-					[
-						"align",
-						"align-items\tproperty"
-					],
-					[
-						"bg",
-						"bg\tbackground: #${1:000};"
-					],
-					[
-						"pay_img",
-						"pay_img_data"
-					],
-					[
-						"rea",
-						"realname"
-					],
-					[
-						"load",
-						"loadEventEnd"
-					],
-					[
-						"qrcode",
-						"qrcodeDom"
-					],
-					[
-						"pa",
-						"padding-top\tproperty"
-					],
-					[
-						"padding",
-						"padding-right\tproperty"
-					],
-					[
-						"font",
-						"font-size\tproperty"
-					],
-					[
-						"magin",
-						"margin-top\tproperty"
-					],
-					[
-						"a",
-						"arrow.png\tw:17 h:9"
-					],
-					[
-						"inline",
-						"inline-block\tdisplay"
-					],
-					[
-						"marign",
-						"margin-left\tproperty"
-					],
-					[
-						"hieght",
-						"line-height\tproperty"
-					],
-					[
-						"op",
-						"opacity\tproperty"
-					],
-					[
-						"border",
-						"border-bottom\tproperty"
-					],
-					[
-						"fotn",
-						"font-size\tproperty"
-					],
-					[
-						"is",
-						"isUploaded"
-					],
-					[
-						"clsoe",
-						"closeIcon"
-					],
-					[
-						"n",
-						"none\tdisplay"
-					],
-					[
-						"bgc",
-						"background-color\tproperty"
-					],
-					[
-						"po",
-						"position\tproperty"
-					],
-					[
-						"pau",
-						"payNum"
-					],
-					[
-						"name",
-						"nameArr"
-					],
-					[
-						"fot",
-						"font-size\tproperty"
-					],
-					[
-						"get",
-						"getObjectURL"
-					],
-					[
-						"text",
-						"text-align\tproperty"
-					],
-					[
-						"phone",
-						"phoneLock"
-					],
-					[
-						"max",
-						"maxNumLock"
-					],
-					[
-						"repass",
-						"repasswordLock"
-					],
-					[
-						"newPass",
-						"newPasswordLock"
-					],
-					[
-						"old",
-						"oldPasswordLock"
-					],
-					[
-						"tips",
-						"tipsDom"
-					],
-					[
-						"id",
-						"identifyingCodeLock"
-					],
-					[
-						"repa",
-						"rePasswordLock"
-					],
-					[
-						"emial",
-						"emailLock"
-					],
-					[
 						"pass",
 						"passwordLock"
 					],
 					[
-						"email",
-						"emailLock"
+						"user",
+						"usernameLock"
 					],
 					[
-						"inlin",
-						"inline-block\tdisplay"
+						"padding",
+						"padding-left\tproperty"
 					],
 					[
-						"in",
-						"intDiff"
+						"margin",
+						"margin-bottom\tproperty"
 					],
 					[
-						"stop",
-						"stopPropagation"
+						"text",
+						"text-align-last\tproperty"
 					],
 					[
-						"remvoe",
-						"removeClass\t.removeClass()"
-					],
-					[
-						"no",
-						"nowrap\twhite-space"
-					],
-					[
-						"box",
-						"box-shadow\tproperty"
-					],
-					[
-						"slide",
-						"slideToggle\t.slideToggle()"
-					],
-					[
-						"toggle",
-						"toggleClass\t.toggleClass()"
+						"ready",
+						"readyStart"
 					],
 					[
 						"add",
-						"addClass\t.addClass()"
+						"addSqlParams"
 					],
 					[
-						"iline",
-						"inline-block\tdisplay"
+						"query",
+						"queryParam"
 					],
 					[
-						"parse",
-						"parseFloat"
+						"data",
+						"dataObject"
 					],
 					[
-						"move",
-						"moveLeft"
+						"file",
+						"filePath"
 					],
 					[
-						"new",
-						"newValue"
+						"path",
+						"pathObj"
 					],
 					[
-						"per",
-						"percentageNum"
+						"load",
+						"loadPageTime"
 					],
 					[
-						"b",
-						"block\tdisplay"
+						"va",
+						"validatePIN"
 					],
 					[
-						"shiw",
-						"showRegisterPanel"
+						"forma",
+						"formatTime"
 					],
 					[
 						"show",
-						"showLoginPanel"
+						"showPopup"
 					],
 					[
-						"font-sty",
-						"font-synthesis\tproperty"
+						"list",
+						"list-style\tproperty"
 					],
 					[
-						"user",
-						"userModule"
+						"Index",
+						"IndexItem"
 					],
 					[
-						"send",
-						"sendCodeHtml"
+						"index",
+						"Index"
 					],
 					[
-						"rePass",
-						"rePasswordTips"
+						"prev",
+						"prevList"
 					],
 					[
-						"sho",
-						"showLogin"
+						"B",
+						"BabyItem"
 					],
 					[
-						"password",
-						"passwordTips"
+						"get",
+						"getBabyRank"
 					],
 					[
-						"flo",
-						"float\tproperty"
-					],
-					[
-						"marg",
-						"margin-left\tproperty"
+						"props",
+						"propsValue"
 					],
 					[
 						"cur",
 						"cursor\tproperty"
 					],
 					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"b",
+						"block\tdisplay"
+					],
+					[
+						"border",
+						"border-radius\tproperty"
+					],
+					[
+						"box",
+						"box-sizing\tproperty"
+					],
+					[
 						"re",
 						"relative\tposition"
+					],
+					[
+						"fotn",
+						"font-size\tproperty"
 					],
 					[
 						"color",
@@ -306,6 +148,10 @@
 					[
 						"ce",
 						"center\ttext-align"
+					],
+					[
+						"po",
+						"position\tproperty"
 					],
 					[
 						"ab",
@@ -320,16 +166,12 @@
 						"translateX()\ttransform"
 					],
 					[
-						"path",
-						"pathname"
+						"bgc",
+						"background-color\tproperty"
 					],
 					[
 						"html",
 						"htmlArr"
-					],
-					[
-						"index",
-						"indexOf"
 					],
 					[
 						"entry",
@@ -362,6 +204,10 @@
 					[
 						"content",
 						"contentType"
+					],
+					[
+						"in",
+						"intDiffIcon"
 					],
 					[
 						"background",
@@ -436,10 +282,6 @@
 						"bodymovin"
 					],
 					[
-						"data",
-						"$dataProvider〔variable〕"
-					],
-					[
 						"dir",
 						"dirArr〔variable〕"
 					],
@@ -476,12 +318,12 @@
 						"overflow-y"
 					],
 					[
-						"list",
-						"list-style"
-					],
-					[
 						"over",
 						"overflow-y"
+					],
+					[
+						"no",
+						"nofollow"
 					],
 					[
 						"action",
@@ -496,8 +338,8 @@
 						"follow_btn"
 					],
 					[
-						"prev",
-						"prevList〔variable〕"
+						"is",
+						"isAttention"
 					],
 					[
 						"last",
@@ -520,6 +362,10 @@
 						"giftNum"
 					],
 					[
+						"marign",
+						"margin-left"
+					],
+					[
 						"avatar",
 						"avatar_wrap"
 					],
@@ -534,6 +380,138 @@
 					[
 						"mar",
 						"margin-top"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"ha",
+						"halloween2017/"
+					],
+					[
+						"todo",
+						"todolist"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"err",
+						"errorClass"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"party",
+						"partyTime2"
+					],
+					[
+						"image",
+						"imageminOptipng"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"border-co",
+						"border-collapse"
+					],
+					[
+						"repeat",
+						"repeat-y"
+					],
+					[
+						"gifts",
+						"gifts-num"
+					],
+					[
+						"remove",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"a",
+						"activity"
+					],
+					[
+						"static",
+						"static_guojiang_tv"
+					],
+					[
+						"mouse",
+						"mouseleave\t.mouseleave()"
+					],
+					[
+						"close",
+						"closest\t.closest()"
+					],
+					[
+						"new",
+						"newStr〔variable〕"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"mode",
+						"modeInfo"
+					],
+					[
+						"consol",
+						"console.log"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"clea",
+						"clearInterval〔function〕"
+					],
+					[
+						"BORDER",
+						"border-radius"
+					],
+					[
+						"record",
+						"record-list"
+					],
+					[
+						"table",
+						"table-cell"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"doc",
+						"doc_H"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"bootst",
+						"bootstraphtml\tbootstraphtml"
 					]
 				]
 			},
@@ -568,15 +546,7 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"pac",
-						"Package Control: List Packages"
-					],
-					[
-						"Package Control: ",
+						"install",
 						"Package Control: Install Package"
 					],
 					[
@@ -589,6 +559,14 @@
 					],
 					[
 						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
@@ -616,6 +594,10 @@
 						"Git: Pull"
 					],
 					[
+						"pac",
+						"Package Control: Enable Package"
+					],
+					[
 						"list",
 						"Package Control: List Packages"
 					],
@@ -626,17 +608,13 @@
 					[
 						"Pa",
 						"Package Control: List Packages"
-					],
-					[
-						"install",
-						"Package Control: Install Local Dependency"
 					]
 				],
 				"width": 510.0
 			},
 			"console":
 			{
-				"height": 383.0,
+				"height": 637.0,
 				"history":
 				[
 					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
@@ -654,134 +632,134 @@
 			},
 			"file_history":
 			[
-				"/D/Program Files/SublimeText3/Data/Packages/User/TortoiseSVN.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
-				"/E/Study/Nodejs/nodeWeb/server.js",
-				"/Z/trade_new/gulp/gulpfile.js",
-				"/E/Study/Nodejs/node.js进阶教程.md",
-				"/Z/trade_new/gulp/src/mobile/js/user/accountSafe.js",
-				"/Z/trade_new/gulp/src/mobile/js/wallet/checkout.js",
-				"/Z/trade_new/gulp/src/mobile/js/login/forgetPassword.js",
-				"/D/Program Files/SublimeText3/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/User/Package Control.sublime-settings",
-				"/Z/trade_new/public/mobile/css/chat/index.css",
-				"/Z/trade_new/public/mobile/js/ad/add.js",
-				"/Z/trade_new/gulp/src/mobile/js/login/register.js",
-				"/Z/trade_new/public/mobile/js/login/register.js",
-				"/Z/trade_new/gulp/package.json",
-				"/Z/trade_new/public/mobile/css/user/setPay.less",
-				"/Z/trade_new/application/web/pc/view/user/setPay_m.html",
-				"/Z/trade_new/application/web/pc/view/user/setPay.html",
-				"/Z/trade_new/application/web/pc/controller/UserController.php",
-				"/Z/trade_new/application/web/pc/view/ad/add.html",
-				"/Z/trade_new/public/pc/js/index/index.js",
-				"/Z/trade_new/gulp/rev/pc/rev-manifest.json",
-				"/Z/trade_new/gulp/src/pc/js/login/register.js",
-				"/Z/trade_new/gulp/src/pc/js/user/accountSafe.js",
-				"/Z/trade_new/gulp/src/pc/js/login/forgetPassword.js",
-				"/Z/trade_new/gulp/rev/pc/js/rev-manifest.json",
-				"/Z/trade_new/public/pc/js/login/register.js",
-				"/Z/trade_new/public/pc/js/login/index.js",
-				"/Z/trade_new/public/pc/css/user/account.css",
-				"/Z/trade_new/public/mobile/js/user/setPay.js",
-				"/Z/trade_new/gulp/src/pc/js/ad/add.js",
-				"/Z/trade_new/public/pc/js/user/setPay.js",
-				"/Z/trade_new/public/pc/js/user/accountSafe.js",
-				"/Z/trade_new/public/pc/js/login/forgetPassword.js",
-				"/Z/trade_new/gulp/src/pc/js/wallet/checkout.js",
-				"/Z/trade_new/public/pc/js/ad/detail.js",
-				"/Z/trade_new/public/pc/js/ad/add.js",
-				"/F/guojiang/source/gulp-disk/gulpfile.js",
-				"/F/guojiang/source/gulp-disk/package.json",
-				"/Z/trade_new/public/index.php",
-				"/Z/trade_new/application/web/pc/view/common/order_chat.html",
-				"/Z/trade_new/public/pc/html/privacy.html",
-				"/Z/trade_new/public/pc/html/term.html",
-				"/Z/trade_new/application/web/pc/view/common/header.html",
-				"/Z/trade_new/application/common/model/UserModel.php",
-				"/C/Users/Administrator/Desktop/vue-skeleton-master/src/xgSkeleton.js",
-				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/mobile/v2/js/activity/beibei.js",
-				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/mobile/v2/js/activity/midAutumnDay.js",
-				"/Z/trade_new/trade_add.sql",
-				"/E/Study/Vue/srcCode/vue/src/core/index.js",
-				"/E/Study/Vue/srcCode/vue2.5.13.js",
-				"/Z/trade_new/public/pc/css/user/user.css",
-				"/Z/trade_new/public/pc/js/user/tradeAccount.js",
-				"/Z/trade_new/application/web/pc/view/order/info.html",
-				"/Z/trade_new/application/web/pc/view/common/user.html",
-				"/Z/trade_new/application/web/pc/view/wallet/recharge.html",
-				"/Z/trade_new/public/pc/css/user/user2.css",
-				"/Z/trade_new/public/pc/css/ad/add.css",
-				"/Z/trade_new/application/web/pc/view/user/security.html",
-				"/E/trade/Public/trade-static/html/user/invite.html",
-				"/Z/trade_new/application/web/pc/view/invite/index.html",
-				"/Z/trade_new/application/web/pc/view/wallet/checkoutHistory.html",
-				"/Z/trade_new/application/web/pc/view/user/tradeAccount.html",
-				"/Z/trade_new/application/web/pc/view/wallet/index.html",
-				"/Z/trade_new/application/web/pc/view/wallet/checkout.html",
-				"/Z/trade_new/application/web/pc/view/wallet/rechargeHistory.html",
-				"/Z/trade_new/application/web/pc/view/trade/index.html",
-				"/Z/trade_new/application/web/pc/view/common/footer.html",
-				"/Z/trade_new/application/web/pc/view/index/index.html",
-				"/Z/trade_new/public/mobile/js/chat/index.js",
-				"/Z/trade_new/public/mobile/css/chat/index.less",
-				"/Z/trade_new/application/web/pc/controller/ChatController.php",
-				"/Z/trade_new/application/web/pc/view/chat/index_m.html",
-				"/Z/trade_new/application/web/pc/view/ad/detail.html",
-				"/Z/trade_new/public/mobile/css/newad/sell.less",
-				"/Z/trade_new/public/pc/css/user/accountSafe.css",
-				"/Z/trade_new/application/web/pc/view/search/index_m.html",
-				"/Z/trade_new/public/mobile/css/trade/searchResult.less",
-				"/F/guojiang/xingguang/package.json",
-				"/F/guojiang/nginx/conf/project/xingguang.conf",
-				"/F/guojiang/nginx/conf/nginx.conf",
-				"/F/guojiang/nginx/conf/ssl/xingguang.conf",
-				"/Z/trade_new/application/web/pc/controller/SearchController.php",
-				"/Z/trade_new/application/web/pc/controller/TradeController.php",
-				"/E/trade/Public/trade-static/App/html/trade/searchResult.html",
-				"/Z/trade_new/application/web/pc/view/trade/index_m.html",
-				"/Z/trade_new/application/web/pc/view/user/tradeAccount_m.html",
-				"/D/Program Files/SublimeText3/Data/Packages/User/SVN.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/SVN/SVN.sublime-settings",
-				"/Z/trade_new/application/web/pc/view/common/user_nav.html",
-				"/D/Documents/NetSarang/Xftp/Temporary/security.html",
-				"/E/trade/Application/Home/View/Index/a/index.html",
-				"/Z/trade_new/public/pc/css/common/common.css",
-				"/Z/trade_new/public/pc/css/ad/detail.css",
-				"/Z/trade_new/application/web/pc/controller/AdController.php",
-				"/Z/trade_new/application/web/pc/view/index/index_m.html",
-				"/Z/trade_new/public/pc/css/login/register.css",
-				"/Z/trade_new/public/pc/css/login/index.css",
-				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/index.html",
-				"/Z/trade_new/public/pc/css/help/main.css",
-				"/E/Test/webTest/js/index.js",
-				"/E/Test/webTest/js/demo.js",
-				"/E/Test/webTest/demo.html",
-				"/E/Test/webTest/index.html",
-				"/D/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
-				"/D/wamp64/bin/apache/apache2.4.27/conf/httpd.conf",
-				"/D/wamp64/alias/test - 副本.conf",
-				"/D/wamp64/alias/test.conf",
+				"/F/ICP/css/login.css",
+				"/F/ICP/server-simple.js",
+				"/F/ICP/html/index.html",
+				"/D/Program Files/SublimeText3/Data/Packages/User/less2css.sublime-settings",
+				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/pc/v4/css/common.less",
+				"/D/Program Files/SublimeText3/Data/Packages/User/LiveReload.sublime-settings",
+				"/D/Program Files/SublimeText3/Data/Packages/LiveReload/LiveReload.sublime-settings",
+				"/F/guojiang/overseas/src/v2/pc/css/common/common.less",
+				"/E/Study/Nodejs/node-server/step1/server-simple.js",
+				"/E/Study/Nodejs/node-server/step1/server.js",
+				"/E/Study/Nodejs/node-server/step0/index.js",
+				"/E/Study/Nodejs/Blog/views/header.ejs",
+				"/E/Study/Nodejs/Blog/views/post.ejs",
+				"/E/Study/Nodejs/Blog/views/regist.ejs",
+				"/E/Study/Nodejs/Blog/views/login.ejs",
+				"/E/Study/Nodejs/Blog/views/index.ejs",
+				"/E/Study/Nodejs/Blog/routes/index.js",
+				"/E/Study/Nodejs/Blog/app.js",
+				"/E/Study/Nodejs/Blog/node_modules/jquery/README.md",
+				"/E/Study/Nodejs/Blog/views/footer.ejs",
+				"/E/Study/Nodejs/Blog/readme.md",
+				"/E/Study/Nodejs/Blog/routes/users.js",
+				"/E/Study/Nodejs/Blog/package.json",
+				"/E/Study/Nodejs/Blog/bin/www",
+				"/D/Program Files/SublimeText3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/Program Files/SublimeText3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/Z/naus-tool/list",
+				"/Z/naus-tool/naus/public/html/pc/dist/index3/index.html",
+				"/E/Study/Electron/xingguang/README.md",
+				"/E/Study/Electron/xingguang/index.html",
 				"/F/guojiang/naus/package.json",
-				"/F/guojiang/naus/README.md",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.ef8f51e4.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.8f267d51.js",
+				"/F/guojiang/naus/manifest/vendor_pc_manifest.json",
+				"/F/guojiang/naus/webpack.config.js",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.b7fc6f3b.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.b4a31e1e.js",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.872fbdd7.js",
+				"/C/Users/Administrator/Desktop/manifest.2bcc18c1.js",
+				"/C/Users/Administrator/Desktop/index.96dfa51b.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.69d7dff4.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.7572e32a.js",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.18a947fd.js",
+				"/F/guojiang/naus/static/dist/pc/js/index/index.e3adb109.js",
+				"/F/guojiang/naus/static/dist/pc/js/index/index.2bf126a3.js",
+				"/F/guojiang/naus/static/dist/pc/js/index/index.be323bb9.js",
+				"/F/guojiang/naus/entryignore.json",
+				"/F/guojiang/naus/.gitignore",
+				"/F/guojiang/naus/yarn.lock",
+				"/C/Users/Administrator/Desktop/yarn.lock",
 				"/F/guojiang/naus/.eslintrc.js",
-				"/Z/trade_new/public/user.php",
-				"/E/trade.sql",
-				"/Z/trade_new/application/web/pc/controller/IndexController.php",
-				"/Z/trade_new/application/web/pc/controller/LoginController.php",
-				"/Z/trade_new/application/web/pc/view/login/index.html",
-				"/Z/trade_new/application/web/pc/controller/InviteController.php",
-				"/C/Users/Administrator/.viminfo",
-				"/C/Users/Administrator/.eslint_d",
-				"/C/Users/Administrator/.gitconfig",
-				"/E/trade/Public/trade-static/css/trade/buy.css",
-				"/E/trade/Public/trade-static/html/index/index.html",
-				"/E/trade/Public/trade-static/html/trade/buy.html",
-				"/E/trade/Public/trade-static/App/html/user/aboutMe.html",
-				"/E/trade/Public/trade-static/App/html/user/help.html",
-				"/E/trade/Public/trade-static/App/html/help/how-to-registe.html",
-				"/E/trade/Public/trade-static/App/html/user/myprice.html",
-				"/Z/trade_new/conf/application.ini"
+				"/F/guojiang/overseas/webpack.config.js",
+				"/F/guojiang/overseas/src/v2/mobile/js/recharge/index/home.vue",
+				"/E/Study/Electron/xingguang/package.json",
+				"/E/Study/Nodejs/node-server/step2/server.js",
+				"/E/Study/Electron/xingguang/build.js",
+				"/E/Study/Electron/xingguang/main.js",
+				"/C/Users/Administrator/Desktop/favicon.htm",
+				"/E/Study/Nodejs/nodeWeb/index.js",
+				"/E/Study/Nodejs/nodeWeb/requestHandlers.js",
+				"/F/guojiang/overseas/mock/recharge.js",
+				"/F/guojiang/overseas/dist/v2/mobile/js/activity/vendors.js",
+				"/E/Study/Nodejs/node-server/readme.md",
+				"/E/Study/Nodejs/node-server/simple/index.js",
+				"/E/Study/video/imooc/README.md",
+				"/E/Study/video/imooc/package.json",
+				"/E/Study/Web前端性能提升方案.md",
+				"/E/Study/Javascript设计模式和开发实践.md",
+				"/E/Study/Nodejs/node-server/step1/readme.md",
+				"/E/Study/Nodejs/nodeWeb/server.js",
+				"/E/Study/Nodejs/Database/mysql.js",
+				"/E/Study/Nodejs/node-server/README.md",
+				"/E/Study/Nodejs/node.js-the-definitive-guide/《Node.js权威指南》读书笔记.md",
+				"/E/Study/Nodejs/imooc/进击node.js.md",
+				"/E/Study/Nodejs/imooc/https,js.js",
+				"/E/Study/Nodejs/imooc/crawler.js",
+				"/E/Study/Nodejs/node.js-the-definitive-guide/test.js",
+				"/E/Study/Nodejs/《Node.js权威指南》读书笔记.md",
+				"/E/Study/Nodejs/node.js进阶教程.md",
+				"/E/Study/Nodejs/nodeWeb/readme.md",
+				"/C/Users/Administrator/.npmrc",
+				"/E/Study/Nodejs/nodeWeb/router.js",
+				"/E/Study/Nodejs学习记录(一)--安装设置篇.md",
+				"/E/Study/Nodejs学习记录(二)--服务器篇.md",
+				"/E/Study/Nodejs学习记录--服务器篇.md",
+				"/E/Study/Vue/srcCode/vue/src/core/instance/index.js",
+				"/E/Study/Vue/srcCode/vue/src/core/global-api/index.js",
+				"/E/Study/Vue/srcCode/vue/src/core/index.js",
+				"/E/Study/Vue/srcCode/myVue/index.html",
+				"/Z/trade_new/gulp/rev/pc/js/rev-manifest.json",
+				"/C/Users/Administrator/Desktop/vue-skeleton-master/src/xgSkeleton.js",
+				"/E/Study/Vue/srcCode/vue/package.json",
+				"/E/Study/Python/test.py",
+				"/F/workCode.md",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/main.js",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/app/liveTip.html",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/index.html",
+				"/F/guojiang/xingguang/package.json",
+				"/F/guojiang/xingguang/README.md",
+				"/E/Test/upload/up.php",
+				"/E/Test/upload/index.html",
+				"/E/Test/1.html",
+				"/Z/html/index.html",
+				"/E/Study/study.md",
+				"/Z/videochat/web/protected/modules/mobile/views/download/tuhao.php",
+				"/Z/videochat/web/protected/modules/mobile/controllers/DownloadController.php",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/package.json",
+				"/E/Study/Electron/xingguang/installer/xianguang-1.0.0-full.nupkg",
+				"/E/Study/Electron/xingguang/installer/RELEASES",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/build.js",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/package-lock.json",
+				"/E/Study/Electron/electron-quick-start/index.html",
+				"/E/Study/Electron/electron-quick-start/main.js",
+				"/E/Study/Electron/electron-quick-start/build.js",
+				"/E/Study/Electron/electron-quick-start/renderer.js",
+				"/E/Study/Electron/electron-quick-start/package.json",
+				"/E/Study/Electron/Demo/package.json",
+				"/E/Study/Electron/Demo/main.js",
+				"/E/Study/Electron/Demo/index.html",
+				"/E/Study/monitor/.git/config",
+				"/E/Study/monitor/README.md",
+				"/E/Study/monitor/node/server.js",
+				"/E/Study/monitor/node/static/js/index.js",
+				"/E/Study/monitor/node/README.md",
+				"/E/Study/monitor/node/database.sql",
+				"/E/Study/monitor/node/report.js",
+				"/E/Study/monitor/node/index.html",
+				"/E/Study/monitor/node/static/report.js"
 			],
 			"find":
 			{
@@ -799,60 +777,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"setTime",
-					"$(this)",
-					"static_guojiang_tv",
-					"$(this)",
-					"this",
-					"static_guojiang_tv/pc/v3",
-					"pubic",
-					"errorHandler",
-					"static_guojiang_tv",
-					"v3",
-					"../static_guojiang_tv/",
-					"../static_guojiang_tv/src",
-					"virtualDrive",
-					"cleanCss",
-					"upload",
-					"qrcodeFile",
-					"uploadPayImg",
-					"walkOpt",
-					"xg-skeleton",
-					"data-skeleton-id",
-					"queryByPk",
-					"30",
-					"0",
-					"account",
-					"3",
-					"sell",
-					"recharge",
-					"layer",
-					"支付宝",
+					"};",
+					"red",
+					"static",
+					"/website/",
+					"app",
+					"bodyParser",
+					"49fU",
+					": ",
+					"49fU",
+					"gwyD",
+					"49fU",
+					"49f",
+					"/website/",
+					"/website/trunk/",
+					"/website/trunk/static",
+					"/website/trunk/",
+					"recharge/index/",
+					"/website/trunk/",
+					"/website/static",
+					"U /var/www/",
+					"/var/www/",
+					"/website/trunk/",
+					"/var/www/static_guojiang_tv/",
+					"node",
+					"Node",
+					"node",
+					"native",
+					"Hanlders",
+					"n o",
+					"n ",
+					"</ ",
+					"< ",
+					" < ",
+					"export",
+					"out",
+					"protocol-handler",
+					"主要功能是统计页面重定向耗时，查询DNS缓存耗时，DNS查询耗时，TCP连接耗时，读取页面第一个字符耗时，加载资源耗时，解析DOM耗时，load事件耗时，页面加载总耗时",
+					"param",
+					"loadPageTime",
+					"(?,?,?,?,?,?,?,?,?,?)';",
+					"url",
+					"/static",
+					"VARCHAR",
+					"\"",
+					"}",
+					"{",
+					"`{",
+					"}'",
+					"\"{",
+					"}",
+					"{",
+					"}'",
+					"'{",
+					"$mysqli",
+					"mysqli",
+					"link",
+					".",
+					"monitor",
+					"e:/",
+					"E:/",
+					"Study/",
+					"monitor",
+					"E:/monitor",
+					"Study",
+					"var ",
+					"U /var/www/",
+					"/website/trunk/",
+					"A /var/www/",
+					"};\n",
+					"createPlayerSWF",
+					"object",
+					"player_wrap",
+					"analyticCode",
+					"decode",
+					"doushowtimes",
+					"static",
+					"/website/",
+					"qrApi",
+					"demerit",
+					"adelta",
+					"U /var/www/",
+					"A /var/www/",
+					"等其他生命周期函数中的this都是组件实例",
+					"updateRecommed",
+					"U /var/www/",
+					"gitlab",
+					"vue",
+					"updateNew",
+					"room_info",
+					"updateRecommed",
+					"room_info",
+					"static",
+					"/website/",
+					"加载",
+					"s22.cnzz.com",
+					"\"",
+					"$global",
+					"/guojiang",
+					"/html/dist/",
+					"/html/dist/mobile",
+					"../../../",
+					"/",
+					" /guojiang",
+					"/website/",
+					"src",
+					"/website/",
+					"export",
 					"div",
-					"../../",
-					"data",
+					"Project",
+					"generators",
+					"pkg",
+					"_getPaths",
+					"_writeByType",
+					"_ensurePathDir",
+					"._getPaths",
+					"_prepare",
+					"v4/",
+					"src/",
+					"v2/",
+					"src/",
+					"xingguang/xingguang",
+					"generatorName",
 					"log",
-					"uploadPayImg",
-					"detail",
-					"../../",
-					"body",
-					"#",
-					"t.",
-					"t",
-					"requestTime",
-					"t",
-					"t.",
-					"60",
-					"新手入门",
-					"开户银行",
-					"18/@bf",
-					"20",
-					"kind",
-					" display:block;",
-					"22/@bf",
-					"21/@bf",
-					"21/@",
-					"22"
+					"axios",
+					"class=\"",
+					"class=",
+					"                \n",
+					"currentPosition"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -860,6 +912,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/",
+					"background-color:@box-bgc;",
+					"background-color:#7000da;"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -882,7 +937,7 @@
 			},
 			"output.SublimeLinter Messages":
 			{
-				"height": 213.0
+				"height": 133.0
 			},
 			"output.doc":
 			{
@@ -913,17 +968,13 @@
 			{
 				"height": 50.0
 			},
-			"save_all_on_build": true,
+			"save_all_on_build": false,
 			"select_file":
 			{
 				"height": 0.0,
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"UserMode",
-						"trade_new\\application\\common\\model\\UserModel.php"
-					],
 					[
 						"webpack-zepto",
 						"F\\overseas-vue\\local\\node_modules\\webpack-zepto\\index.js"
@@ -985,13 +1036,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 279.0,
+			"side_bar_width": 226.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1488.0
+		"new_window_width": 1459.0
 	},
 	"windows":
 	[
@@ -1001,280 +1052,120 @@
 				"selected_items":
 				[
 					[
-						"pay",
-						"payKind"
-					],
-					[
-						"tmp",
-						"tmpPic"
-					],
-					[
-						"file",
-						"fileName"
-					],
-					[
-						"margin",
-						"margin-left\tproperty"
-					],
-					[
-						"align",
-						"align-items\tproperty"
-					],
-					[
-						"bg",
-						"bg\tbackground: #${1:000};"
-					],
-					[
-						"pay_img",
-						"pay_img_data"
-					],
-					[
-						"rea",
-						"realname"
-					],
-					[
-						"load",
-						"loadEventEnd"
-					],
-					[
-						"qrcode",
-						"qrcodeDom"
-					],
-					[
-						"pa",
-						"padding-top\tproperty"
-					],
-					[
-						"padding",
-						"padding-right\tproperty"
-					],
-					[
-						"font",
-						"font-size\tproperty"
-					],
-					[
-						"magin",
-						"margin-top\tproperty"
-					],
-					[
-						"a",
-						"arrow.png\tw:17 h:9"
-					],
-					[
-						"inline",
-						"inline-block\tdisplay"
-					],
-					[
-						"marign",
-						"margin-left\tproperty"
-					],
-					[
-						"hieght",
-						"line-height\tproperty"
-					],
-					[
-						"op",
-						"opacity\tproperty"
-					],
-					[
-						"border",
-						"border-bottom\tproperty"
-					],
-					[
-						"fotn",
-						"font-size\tproperty"
-					],
-					[
-						"is",
-						"isUploaded"
-					],
-					[
-						"clsoe",
-						"closeIcon"
-					],
-					[
-						"n",
-						"none\tdisplay"
-					],
-					[
-						"bgc",
-						"background-color\tproperty"
-					],
-					[
-						"po",
-						"position\tproperty"
-					],
-					[
-						"pau",
-						"payNum"
-					],
-					[
-						"name",
-						"nameArr"
-					],
-					[
-						"fot",
-						"font-size\tproperty"
-					],
-					[
-						"get",
-						"getObjectURL"
-					],
-					[
-						"text",
-						"text-align\tproperty"
-					],
-					[
-						"phone",
-						"phoneLock"
-					],
-					[
-						"max",
-						"maxNumLock"
-					],
-					[
-						"repass",
-						"repasswordLock"
-					],
-					[
-						"newPass",
-						"newPasswordLock"
-					],
-					[
-						"old",
-						"oldPasswordLock"
-					],
-					[
-						"tips",
-						"tipsDom"
-					],
-					[
-						"id",
-						"identifyingCodeLock"
-					],
-					[
-						"repa",
-						"rePasswordLock"
-					],
-					[
-						"emial",
-						"emailLock"
-					],
-					[
 						"pass",
 						"passwordLock"
 					],
 					[
-						"email",
-						"emailLock"
+						"user",
+						"usernameLock"
 					],
 					[
-						"inlin",
-						"inline-block\tdisplay"
+						"padding",
+						"padding-left\tproperty"
 					],
 					[
-						"in",
-						"intDiff"
+						"margin",
+						"margin-bottom\tproperty"
 					],
 					[
-						"stop",
-						"stopPropagation"
+						"text",
+						"text-align-last\tproperty"
 					],
 					[
-						"remvoe",
-						"removeClass\t.removeClass()"
-					],
-					[
-						"no",
-						"nowrap\twhite-space"
-					],
-					[
-						"box",
-						"box-shadow\tproperty"
-					],
-					[
-						"slide",
-						"slideToggle\t.slideToggle()"
-					],
-					[
-						"toggle",
-						"toggleClass\t.toggleClass()"
+						"ready",
+						"readyStart"
 					],
 					[
 						"add",
-						"addClass\t.addClass()"
+						"addSqlParams"
 					],
 					[
-						"iline",
-						"inline-block\tdisplay"
+						"query",
+						"queryParam"
 					],
 					[
-						"parse",
-						"parseFloat"
+						"data",
+						"dataObject"
 					],
 					[
-						"move",
-						"moveLeft"
+						"file",
+						"filePath"
 					],
 					[
-						"new",
-						"newValue"
+						"path",
+						"pathObj"
 					],
 					[
-						"per",
-						"percentageNum"
+						"load",
+						"loadPageTime"
 					],
 					[
-						"b",
-						"block\tdisplay"
+						"va",
+						"validatePIN"
 					],
 					[
-						"shiw",
-						"showRegisterPanel"
+						"forma",
+						"formatTime"
 					],
 					[
 						"show",
-						"showLoginPanel"
+						"showPopup"
 					],
 					[
-						"font-sty",
-						"font-synthesis\tproperty"
+						"list",
+						"list-style\tproperty"
 					],
 					[
-						"user",
-						"userModule"
+						"Index",
+						"IndexItem"
 					],
 					[
-						"send",
-						"sendCodeHtml"
+						"index",
+						"Index"
 					],
 					[
-						"rePass",
-						"rePasswordTips"
+						"prev",
+						"prevList"
 					],
 					[
-						"sho",
-						"showLogin"
+						"B",
+						"BabyItem"
 					],
 					[
-						"password",
-						"passwordTips"
+						"get",
+						"getBabyRank"
 					],
 					[
-						"flo",
-						"float\tproperty"
-					],
-					[
-						"marg",
-						"margin-left\tproperty"
+						"props",
+						"propsValue"
 					],
 					[
 						"cur",
 						"cursor\tproperty"
 					],
 					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"b",
+						"block\tdisplay"
+					],
+					[
+						"border",
+						"border-radius\tproperty"
+					],
+					[
+						"box",
+						"box-sizing\tproperty"
+					],
+					[
 						"re",
 						"relative\tposition"
+					],
+					[
+						"fotn",
+						"font-size\tproperty"
 					],
 					[
 						"color",
@@ -1283,6 +1174,10 @@
 					[
 						"ce",
 						"center\ttext-align"
+					],
+					[
+						"po",
+						"position\tproperty"
 					],
 					[
 						"ab",
@@ -1297,16 +1192,12 @@
 						"translateX()\ttransform"
 					],
 					[
-						"path",
-						"pathname"
+						"bgc",
+						"background-color\tproperty"
 					],
 					[
 						"html",
 						"htmlArr"
-					],
-					[
-						"index",
-						"indexOf"
 					],
 					[
 						"entry",
@@ -1339,6 +1230,10 @@
 					[
 						"content",
 						"contentType"
+					],
+					[
+						"in",
+						"intDiffIcon"
 					],
 					[
 						"background",
@@ -1413,10 +1308,6 @@
 						"bodymovin"
 					],
 					[
-						"data",
-						"$dataProvider〔variable〕"
-					],
-					[
 						"dir",
 						"dirArr〔variable〕"
 					],
@@ -1453,12 +1344,12 @@
 						"overflow-y"
 					],
 					[
-						"list",
-						"list-style"
-					],
-					[
 						"over",
 						"overflow-y"
+					],
+					[
+						"no",
+						"nofollow"
 					],
 					[
 						"action",
@@ -1473,8 +1364,8 @@
 						"follow_btn"
 					],
 					[
-						"prev",
-						"prevList〔variable〕"
+						"is",
+						"isAttention"
 					],
 					[
 						"last",
@@ -1497,6 +1388,10 @@
 						"giftNum"
 					],
 					[
+						"marign",
+						"margin-left"
+					],
+					[
 						"avatar",
 						"avatar_wrap"
 					],
@@ -1511,42 +1406,225 @@
 					[
 						"mar",
 						"margin-top"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"ha",
+						"halloween2017/"
+					],
+					[
+						"todo",
+						"todolist"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"err",
+						"errorClass"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"party",
+						"partyTime2"
+					],
+					[
+						"image",
+						"imageminOptipng"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"border-co",
+						"border-collapse"
+					],
+					[
+						"repeat",
+						"repeat-y"
+					],
+					[
+						"gifts",
+						"gifts-num"
+					],
+					[
+						"remove",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"a",
+						"activity"
+					],
+					[
+						"static",
+						"static_guojiang_tv"
+					],
+					[
+						"mouse",
+						"mouseleave\t.mouseleave()"
+					],
+					[
+						"close",
+						"closest\t.closest()"
+					],
+					[
+						"new",
+						"newStr〔variable〕"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"mode",
+						"modeInfo"
+					],
+					[
+						"consol",
+						"console.log"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"clea",
+						"clearInterval〔function〕"
+					],
+					[
+						"BORDER",
+						"border-radius"
+					],
+					[
+						"record",
+						"record-list"
+					],
+					[
+						"table",
+						"table-cell"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"doc",
+						"doc_H"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"bootst",
+						"bootstraphtml\tbootstraphtml"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Z/trade_new/application/web/pc/controller/AdController.php",
+					"file": "/E/Study/study.md",
 					"settings":
 					{
-						"buffer_size": 7504,
+						"buffer_size": 3587,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Z/trade_new/application/web/pc/controller/UserController.php",
+					"file": "/F/已完成项目文件列表.md",
 					"settings":
 					{
-						"buffer_size": 13984,
+						"buffer_size": 69518,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "Package Control Messages\n========================\n\nTortoiseSVN\n-----------\n\n  Sublime-TortoiseSVN\n  =============\n  sublime-TortoiseSVN is a tiny and simple plugin for [Sublime Text](http://www.sublimetext.com) .\n  It's behavior is similar to [subclipse](http://subclipse.tigris.org/) in [Eclipse](http://www.eclipse.org/).\n  **It runs only on Windows and needs the TortoiseSVN and TortoiseSVN command line tools (TortoiseProc.exe).**\n  \n  Usage\n  ============\n  Install it using [Sublime Package Control](http://wbond.net/sublime_packages/package_control).\n  If TortoiseSVN is not installed at `C:\\\\Program Files\\\\TortoiseSVN\\\\bin\\\\TortoiseProc.exe`, specify the correct path\n  by setting property \"tortoiseproc_path\" in your TortoiseSVN.sublime-settings file. \n  \n  \n  The default key bindings are \n  - [alt+c] : commit current file.\n  - [alt+u] : update current file.\n  - [alt+r] : revert current file.\n  \n  You can also call TortoiseSVN commands when right-clicking folders or files in the side bar.\n  \n  \n  IMPORTANT\n  ==============\n  \n  Do NOT edit the default Sublime-TortoiseSVN settings. Your changes will be lost\n  when Sublime-TortoiseSVN is updated. ALWAYS edit the user Sublime-TortoiseSVN settings\n  by selecting \"Preferences->Package Settings->TortoiseSVN->Settings - User\".\n  Note that individual settings you include in your user settings will **completely**\n  replace the corresponding default setting, so you must provide that setting in its entirety.\n  \n  Settings\n  ==============\n  \n  If your TortoiseProc.exe path is not the default, please modify the path by selecting \n  \"Preferences->Package Settings->TortoiseSVN->Settings - User\" in the menu.\n  \n  The default setting is:\n  \n    {\n          // Auto close update dialog when no errors, conflicts and merges\n          \"autoCloseUpdateDialog\": false,\n          \"tortoiseproc_path\": \"C:\\\\Program Files\\\\TortoiseSVN\\\\bin\\\\TortoiseProc.exe\"\n      }\n",
+					"file": "/F/ICP/html/login.html",
 					"settings":
 					{
-						"buffer_size": 1922,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
+						"buffer_size": 1771,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/ICP/html/regist.html",
+					"settings":
+					{
+						"buffer_size": 1982,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/ICP/html/index.html",
+					"settings":
+					{
+						"buffer_size": 1970,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/ICP/html/detail1.html",
+					"settings":
+					{
+						"buffer_size": 1157,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/ICP/css/index.css",
+					"settings":
+					{
+						"buffer_size": 1366,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/ICP/js/login.js",
+					"settings":
+					{
+						"buffer_size": 993,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/ICP/css/common.css",
+					"settings":
+					{
+						"buffer_size": 2613,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/Python/Python.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -1574,19 +1652,15 @@
 				"selected_items":
 				[
 					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
 						"in",
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"pac",
-						"Package Control: List Packages"
-					],
-					[
-						"Package Control: ",
+						"install",
 						"Package Control: Install Package"
 					],
 					[
@@ -1599,6 +1673,14 @@
 					],
 					[
 						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
@@ -1626,6 +1708,10 @@
 						"Git: Pull"
 					],
 					[
+						"pac",
+						"Package Control: Enable Package"
+					],
+					[
 						"list",
 						"Package Control: List Packages"
 					],
@@ -1636,17 +1722,13 @@
 					[
 						"Pa",
 						"Package Control: List Packages"
-					],
-					[
-						"install",
-						"Package Control: Install Local Dependency"
 					]
 				],
 				"width": 510.0
 			},
 			"console":
 			{
-				"height": 383.0,
+				"height": 637.0,
 				"history":
 				[
 					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
@@ -1664,148 +1746,145 @@
 			},
 			"expanded_folders":
 			[
-				"/Z/trade_new",
-				"/Z/trade_new/application",
-				"/Z/trade_new/application/web",
-				"/Z/trade_new/application/web/pc",
-				"/Z/trade_new/application/web/pc/controller",
-				"/Z/trade_new/public",
-				"/Z/trade_new/public/pc"
+				"/F",
+				"/F/ICP",
+				"/F/ICP/css",
+				"/F/ICP/html"
 			],
 			"file_history":
 			[
-				"/D/Program Files/SublimeText3/Data/Packages/User/TortoiseSVN.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
-				"/E/Study/Nodejs/nodeWeb/server.js",
-				"/Z/trade_new/gulp/gulpfile.js",
-				"/E/Study/Nodejs/node.js进阶教程.md",
-				"/Z/trade_new/gulp/src/mobile/js/user/accountSafe.js",
-				"/Z/trade_new/gulp/src/mobile/js/wallet/checkout.js",
-				"/Z/trade_new/gulp/src/mobile/js/login/forgetPassword.js",
-				"/D/Program Files/SublimeText3/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/User/Package Control.sublime-settings",
-				"/Z/trade_new/public/mobile/css/chat/index.css",
-				"/Z/trade_new/public/mobile/js/ad/add.js",
-				"/Z/trade_new/gulp/src/mobile/js/login/register.js",
-				"/Z/trade_new/public/mobile/js/login/register.js",
-				"/Z/trade_new/gulp/package.json",
-				"/Z/trade_new/public/mobile/css/user/setPay.less",
-				"/Z/trade_new/application/web/pc/view/user/setPay_m.html",
-				"/Z/trade_new/application/web/pc/view/user/setPay.html",
-				"/Z/trade_new/application/web/pc/controller/UserController.php",
-				"/Z/trade_new/application/web/pc/view/ad/add.html",
-				"/Z/trade_new/public/pc/js/index/index.js",
-				"/Z/trade_new/gulp/rev/pc/rev-manifest.json",
-				"/Z/trade_new/gulp/src/pc/js/login/register.js",
-				"/Z/trade_new/gulp/src/pc/js/user/accountSafe.js",
-				"/Z/trade_new/gulp/src/pc/js/login/forgetPassword.js",
-				"/Z/trade_new/gulp/rev/pc/js/rev-manifest.json",
-				"/Z/trade_new/public/pc/js/login/register.js",
-				"/Z/trade_new/public/pc/js/login/index.js",
-				"/Z/trade_new/public/pc/css/user/account.css",
-				"/Z/trade_new/public/mobile/js/user/setPay.js",
-				"/Z/trade_new/gulp/src/pc/js/ad/add.js",
-				"/Z/trade_new/public/pc/js/user/setPay.js",
-				"/Z/trade_new/public/pc/js/user/accountSafe.js",
-				"/Z/trade_new/public/pc/js/login/forgetPassword.js",
-				"/Z/trade_new/gulp/src/pc/js/wallet/checkout.js",
-				"/Z/trade_new/public/pc/js/ad/detail.js",
-				"/Z/trade_new/public/pc/js/ad/add.js",
-				"/F/guojiang/source/gulp-disk/gulpfile.js",
-				"/F/guojiang/source/gulp-disk/package.json",
-				"/Z/trade_new/public/index.php",
-				"/Z/trade_new/application/web/pc/view/common/order_chat.html",
-				"/Z/trade_new/public/pc/html/privacy.html",
-				"/Z/trade_new/public/pc/html/term.html",
-				"/Z/trade_new/application/web/pc/view/common/header.html",
-				"/Z/trade_new/application/common/model/UserModel.php",
-				"/C/Users/Administrator/Desktop/vue-skeleton-master/src/xgSkeleton.js",
-				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/mobile/v2/js/activity/beibei.js",
-				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/mobile/v2/js/activity/midAutumnDay.js",
-				"/Z/trade_new/trade_add.sql",
-				"/E/Study/Vue/srcCode/vue/src/core/index.js",
-				"/E/Study/Vue/srcCode/vue2.5.13.js",
-				"/Z/trade_new/public/pc/css/user/user.css",
-				"/Z/trade_new/public/pc/js/user/tradeAccount.js",
-				"/Z/trade_new/application/web/pc/view/order/info.html",
-				"/Z/trade_new/application/web/pc/view/common/user.html",
-				"/Z/trade_new/application/web/pc/view/wallet/recharge.html",
-				"/Z/trade_new/public/pc/css/user/user2.css",
-				"/Z/trade_new/public/pc/css/ad/add.css",
-				"/Z/trade_new/application/web/pc/view/user/security.html",
-				"/E/trade/Public/trade-static/html/user/invite.html",
-				"/Z/trade_new/application/web/pc/view/invite/index.html",
-				"/Z/trade_new/application/web/pc/view/wallet/checkoutHistory.html",
-				"/Z/trade_new/application/web/pc/view/user/tradeAccount.html",
-				"/Z/trade_new/application/web/pc/view/wallet/index.html",
-				"/Z/trade_new/application/web/pc/view/wallet/checkout.html",
-				"/Z/trade_new/application/web/pc/view/wallet/rechargeHistory.html",
-				"/Z/trade_new/application/web/pc/view/trade/index.html",
-				"/Z/trade_new/application/web/pc/view/common/footer.html",
-				"/Z/trade_new/application/web/pc/view/index/index.html",
-				"/Z/trade_new/public/mobile/js/chat/index.js",
-				"/Z/trade_new/public/mobile/css/chat/index.less",
-				"/Z/trade_new/application/web/pc/controller/ChatController.php",
-				"/Z/trade_new/application/web/pc/view/chat/index_m.html",
-				"/Z/trade_new/application/web/pc/view/ad/detail.html",
-				"/Z/trade_new/public/mobile/css/newad/sell.less",
-				"/Z/trade_new/public/pc/css/user/accountSafe.css",
-				"/Z/trade_new/application/web/pc/view/search/index_m.html",
-				"/Z/trade_new/public/mobile/css/trade/searchResult.less",
-				"/F/guojiang/xingguang/package.json",
-				"/F/guojiang/nginx/conf/project/xingguang.conf",
-				"/F/guojiang/nginx/conf/nginx.conf",
-				"/F/guojiang/nginx/conf/ssl/xingguang.conf",
-				"/Z/trade_new/application/web/pc/controller/SearchController.php",
-				"/Z/trade_new/application/web/pc/controller/TradeController.php",
-				"/E/trade/Public/trade-static/App/html/trade/searchResult.html",
-				"/Z/trade_new/application/web/pc/view/trade/index_m.html",
-				"/Z/trade_new/application/web/pc/view/user/tradeAccount_m.html",
-				"/D/Program Files/SublimeText3/Data/Packages/User/SVN.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/SVN/SVN.sublime-settings",
-				"/Z/trade_new/application/web/pc/view/common/user_nav.html",
-				"/D/Documents/NetSarang/Xftp/Temporary/security.html",
-				"/E/trade/Application/Home/View/Index/a/index.html",
-				"/Z/trade_new/public/pc/css/common/common.css",
-				"/Z/trade_new/public/pc/css/ad/detail.css",
-				"/Z/trade_new/application/web/pc/controller/AdController.php",
-				"/Z/trade_new/application/web/pc/view/index/index_m.html",
-				"/Z/trade_new/public/pc/css/login/register.css",
-				"/Z/trade_new/public/pc/css/login/index.css",
-				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/index.html",
-				"/Z/trade_new/public/pc/css/help/main.css",
-				"/E/Test/webTest/js/index.js",
-				"/E/Test/webTest/js/demo.js",
-				"/E/Test/webTest/demo.html",
-				"/E/Test/webTest/index.html",
-				"/D/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
-				"/D/wamp64/bin/apache/apache2.4.27/conf/httpd.conf",
-				"/D/wamp64/alias/test - 副本.conf",
-				"/D/wamp64/alias/test.conf",
+				"/D/Program Files/SublimeText3/Data/Packages/User/SublimeServer.sublime-settings",
+				"/F/ICP/css/login.css",
+				"/F/ICP/server-simple.js",
+				"/F/ICP/html/index.html",
+				"/D/Program Files/SublimeText3/Data/Packages/User/less2css.sublime-settings",
+				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/pc/v4/css/common.less",
+				"/D/Program Files/SublimeText3/Data/Packages/User/LiveReload.sublime-settings",
+				"/D/Program Files/SublimeText3/Data/Packages/LiveReload/LiveReload.sublime-settings",
+				"/F/guojiang/overseas/src/v2/pc/css/common/common.less",
+				"/E/Study/Nodejs/node-server/step1/server-simple.js",
+				"/E/Study/Nodejs/node-server/step1/server.js",
+				"/E/Study/Nodejs/node-server/step0/index.js",
+				"/E/Study/Nodejs/Blog/views/header.ejs",
+				"/E/Study/Nodejs/Blog/views/post.ejs",
+				"/E/Study/Nodejs/Blog/views/regist.ejs",
+				"/E/Study/Nodejs/Blog/views/login.ejs",
+				"/E/Study/Nodejs/Blog/views/index.ejs",
+				"/E/Study/Nodejs/Blog/routes/index.js",
+				"/E/Study/Nodejs/Blog/app.js",
+				"/E/Study/Nodejs/Blog/node_modules/jquery/README.md",
+				"/E/Study/Nodejs/Blog/views/footer.ejs",
+				"/E/Study/Nodejs/Blog/readme.md",
+				"/E/Study/Nodejs/Blog/routes/users.js",
+				"/E/Study/Nodejs/Blog/package.json",
+				"/E/Study/Nodejs/Blog/bin/www",
+				"/D/Program Files/SublimeText3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/Program Files/SublimeText3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/Z/naus-tool/list",
+				"/Z/naus-tool/naus/public/html/pc/dist/index3/index.html",
+				"/E/Study/Electron/xingguang/README.md",
+				"/E/Study/Electron/xingguang/index.html",
 				"/F/guojiang/naus/package.json",
-				"/F/guojiang/naus/README.md",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.ef8f51e4.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.8f267d51.js",
+				"/F/guojiang/naus/manifest/vendor_pc_manifest.json",
+				"/F/guojiang/naus/webpack.config.js",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.b7fc6f3b.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.b4a31e1e.js",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.872fbdd7.js",
+				"/C/Users/Administrator/Desktop/manifest.2bcc18c1.js",
+				"/C/Users/Administrator/Desktop/index.96dfa51b.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.69d7dff4.js",
+				"/F/guojiang/naus/static/dist/pc/js/index3/index.7572e32a.js",
+				"/F/guojiang/naus/static/dist/pc/js/manifest.18a947fd.js",
+				"/F/guojiang/naus/static/dist/pc/js/index/index.e3adb109.js",
+				"/F/guojiang/naus/static/dist/pc/js/index/index.2bf126a3.js",
+				"/F/guojiang/naus/static/dist/pc/js/index/index.be323bb9.js",
+				"/F/guojiang/naus/entryignore.json",
+				"/F/guojiang/naus/.gitignore",
+				"/F/guojiang/naus/yarn.lock",
+				"/C/Users/Administrator/Desktop/yarn.lock",
 				"/F/guojiang/naus/.eslintrc.js",
-				"/Z/trade_new/public/user.php",
-				"/E/trade.sql",
-				"/Z/trade_new/application/web/pc/controller/IndexController.php",
-				"/Z/trade_new/application/web/pc/controller/LoginController.php",
-				"/Z/trade_new/application/web/pc/view/login/index.html",
-				"/Z/trade_new/application/web/pc/controller/InviteController.php",
-				"/C/Users/Administrator/.viminfo",
-				"/C/Users/Administrator/.eslint_d",
-				"/C/Users/Administrator/.gitconfig",
-				"/E/trade/Public/trade-static/css/trade/buy.css",
-				"/E/trade/Public/trade-static/html/index/index.html",
-				"/E/trade/Public/trade-static/html/trade/buy.html",
-				"/E/trade/Public/trade-static/App/html/user/aboutMe.html",
-				"/E/trade/Public/trade-static/App/html/user/help.html",
-				"/E/trade/Public/trade-static/App/html/help/how-to-registe.html",
-				"/E/trade/Public/trade-static/App/html/user/myprice.html",
-				"/Z/trade_new/conf/application.ini"
+				"/F/guojiang/overseas/webpack.config.js",
+				"/F/guojiang/overseas/src/v2/mobile/js/recharge/index/home.vue",
+				"/E/Study/Electron/xingguang/package.json",
+				"/E/Study/Nodejs/node-server/step2/server.js",
+				"/E/Study/Electron/xingguang/build.js",
+				"/E/Study/Electron/xingguang/main.js",
+				"/C/Users/Administrator/Desktop/favicon.htm",
+				"/E/Study/Nodejs/nodeWeb/index.js",
+				"/E/Study/Nodejs/nodeWeb/requestHandlers.js",
+				"/F/guojiang/overseas/mock/recharge.js",
+				"/F/guojiang/overseas/dist/v2/mobile/js/activity/vendors.js",
+				"/E/Study/Nodejs/node-server/readme.md",
+				"/E/Study/Nodejs/node-server/simple/index.js",
+				"/E/Study/video/imooc/README.md",
+				"/E/Study/video/imooc/package.json",
+				"/E/Study/Web前端性能提升方案.md",
+				"/E/Study/Javascript设计模式和开发实践.md",
+				"/E/Study/Nodejs/node-server/step1/readme.md",
+				"/E/Study/Nodejs/nodeWeb/server.js",
+				"/E/Study/Nodejs/Database/mysql.js",
+				"/E/Study/Nodejs/node-server/README.md",
+				"/E/Study/Nodejs/node.js-the-definitive-guide/《Node.js权威指南》读书笔记.md",
+				"/E/Study/Nodejs/imooc/进击node.js.md",
+				"/E/Study/Nodejs/imooc/https,js.js",
+				"/E/Study/Nodejs/imooc/crawler.js",
+				"/E/Study/Nodejs/node.js-the-definitive-guide/test.js",
+				"/E/Study/Nodejs/《Node.js权威指南》读书笔记.md",
+				"/E/Study/Nodejs/node.js进阶教程.md",
+				"/E/Study/Nodejs/nodeWeb/readme.md",
+				"/C/Users/Administrator/.npmrc",
+				"/E/Study/Nodejs/nodeWeb/router.js",
+				"/E/Study/Nodejs学习记录(一)--安装设置篇.md",
+				"/E/Study/Nodejs学习记录(二)--服务器篇.md",
+				"/E/Study/Nodejs学习记录--服务器篇.md",
+				"/E/Study/Vue/srcCode/vue/src/core/instance/index.js",
+				"/E/Study/Vue/srcCode/vue/src/core/global-api/index.js",
+				"/E/Study/Vue/srcCode/vue/src/core/index.js",
+				"/E/Study/Vue/srcCode/myVue/index.html",
+				"/Z/trade_new/gulp/rev/pc/js/rev-manifest.json",
+				"/C/Users/Administrator/Desktop/vue-skeleton-master/src/xgSkeleton.js",
+				"/E/Study/Vue/srcCode/vue/package.json",
+				"/E/Study/Python/test.py",
+				"/F/workCode.md",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/main.js",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/app/liveTip.html",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/index.html",
+				"/F/guojiang/xingguang/package.json",
+				"/F/guojiang/xingguang/README.md",
+				"/E/Test/upload/up.php",
+				"/E/Test/upload/index.html",
+				"/E/Test/1.html",
+				"/Z/html/index.html",
+				"/E/Study/study.md",
+				"/Z/videochat/web/protected/modules/mobile/views/download/tuhao.php",
+				"/Z/videochat/web/protected/modules/mobile/controllers/DownloadController.php",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/package.json",
+				"/E/Study/Electron/xingguang/installer/xianguang-1.0.0-full.nupkg",
+				"/E/Study/Electron/xingguang/installer/RELEASES",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/build.js",
+				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/package-lock.json",
+				"/E/Study/Electron/electron-quick-start/index.html",
+				"/E/Study/Electron/electron-quick-start/main.js",
+				"/E/Study/Electron/electron-quick-start/build.js",
+				"/E/Study/Electron/electron-quick-start/renderer.js",
+				"/E/Study/Electron/electron-quick-start/package.json",
+				"/E/Study/Electron/Demo/package.json",
+				"/E/Study/Electron/Demo/main.js",
+				"/E/Study/Electron/Demo/index.html",
+				"/E/Study/monitor/.git/config",
+				"/E/Study/monitor/README.md",
+				"/E/Study/monitor/node/server.js",
+				"/E/Study/monitor/node/static/js/index.js",
+				"/E/Study/monitor/node/README.md",
+				"/E/Study/monitor/node/database.sql",
+				"/E/Study/monitor/node/report.js",
+				"/E/Study/monitor/node/index.html"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -1819,60 +1898,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"setTime",
-					"$(this)",
-					"static_guojiang_tv",
-					"$(this)",
-					"this",
-					"static_guojiang_tv/pc/v3",
-					"pubic",
-					"errorHandler",
-					"static_guojiang_tv",
-					"v3",
-					"../static_guojiang_tv/",
-					"../static_guojiang_tv/src",
-					"virtualDrive",
-					"cleanCss",
-					"upload",
-					"qrcodeFile",
-					"uploadPayImg",
-					"walkOpt",
-					"xg-skeleton",
-					"data-skeleton-id",
-					"queryByPk",
-					"30",
-					"0",
-					"account",
-					"3",
-					"sell",
-					"recharge",
-					"layer",
-					"支付宝",
+					"};",
+					"red",
+					"static",
+					"/website/",
+					"app",
+					"bodyParser",
+					"49fU",
+					": ",
+					"49fU",
+					"gwyD",
+					"49fU",
+					"49f",
+					"/website/",
+					"/website/trunk/",
+					"/website/trunk/static",
+					"/website/trunk/",
+					"recharge/index/",
+					"/website/trunk/",
+					"/website/static",
+					"U /var/www/",
+					"/var/www/",
+					"/website/trunk/",
+					"/var/www/static_guojiang_tv/",
+					"node",
+					"Node",
+					"node",
+					"native",
+					"Hanlders",
+					"n o",
+					"n ",
+					"</ ",
+					"< ",
+					" < ",
+					"export",
+					"out",
+					"protocol-handler",
+					"主要功能是统计页面重定向耗时，查询DNS缓存耗时，DNS查询耗时，TCP连接耗时，读取页面第一个字符耗时，加载资源耗时，解析DOM耗时，load事件耗时，页面加载总耗时",
+					"param",
+					"loadPageTime",
+					"(?,?,?,?,?,?,?,?,?,?)';",
+					"url",
+					"/static",
+					"VARCHAR",
+					"\"",
+					"}",
+					"{",
+					"`{",
+					"}'",
+					"\"{",
+					"}",
+					"{",
+					"}'",
+					"'{",
+					"$mysqli",
+					"mysqli",
+					"link",
+					".",
+					"monitor",
+					"e:/",
+					"E:/",
+					"Study/",
+					"monitor",
+					"E:/monitor",
+					"Study",
+					"var ",
+					"U /var/www/",
+					"/website/trunk/",
+					"A /var/www/",
+					"};\n",
+					"createPlayerSWF",
+					"object",
+					"player_wrap",
+					"analyticCode",
+					"decode",
+					"doushowtimes",
+					"static",
+					"/website/",
+					"qrApi",
+					"demerit",
+					"adelta",
+					"U /var/www/",
+					"A /var/www/",
+					"等其他生命周期函数中的this都是组件实例",
+					"updateRecommed",
+					"U /var/www/",
+					"gitlab",
+					"vue",
+					"updateNew",
+					"room_info",
+					"updateRecommed",
+					"room_info",
+					"static",
+					"/website/",
+					"加载",
+					"s22.cnzz.com",
+					"\"",
+					"$global",
+					"/guojiang",
+					"/html/dist/",
+					"/html/dist/mobile",
+					"../../../",
+					"/",
+					" /guojiang",
+					"/website/",
+					"src",
+					"/website/",
+					"export",
 					"div",
-					"../../",
-					"data",
+					"Project",
+					"generators",
+					"pkg",
+					"_getPaths",
+					"_writeByType",
+					"_ensurePathDir",
+					"._getPaths",
+					"_prepare",
+					"v4/",
+					"src/",
+					"v2/",
+					"src/",
+					"xingguang/xingguang",
+					"generatorName",
 					"log",
-					"uploadPayImg",
-					"detail",
-					"../../",
-					"body",
-					"#",
-					"t.",
-					"t",
-					"requestTime",
-					"t",
-					"t.",
-					"60",
-					"新手入门",
-					"开户银行",
-					"18/@bf",
-					"20",
-					"kind",
-					" display:block;",
-					"22/@bf",
-					"21/@bf",
-					"21/@",
-					"22"
+					"axios",
+					"class=\"",
+					"class=",
+					"                \n",
+					"currentPosition"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1880,6 +2033,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/",
+					"background-color:@box-bgc;",
+					"background-color:#7000da;"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1890,24 +2046,24 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 5,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Z/trade_new/application/web/pc/controller/AdController.php",
+							"file": "/E/Study/study.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7504,
+								"buffer_size": 3587,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										603,
-										603
+										228,
+										228
 									]
 								],
 								"settings":
@@ -1927,20 +2083,20 @@
 										},
 										"unmatched":
 										{
-											"1":
-											[
-												519,
-												520
-											]
 										}
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1951,31 +2107,16 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -1986,11 +2127,21 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -2005,20 +2156,20 @@
 										},
 										"unmatched":
 										{
-											"1":
-											[
-												519,
-												520
-											]
 										}
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -2029,31 +2180,16 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -2064,13 +2200,837 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"editorconfig": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/已完成项目文件列表.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 69518,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4871,
+										4871
+									]
+								],
+								"settings":
+								{
+									"SL.16.region_keys":
+									[
+									],
+									"SL.31.region_keys":
+									[
+									],
+									"SL.32.region_keys":
+									[
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 14,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2034.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/ICP/html/login.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1771,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1771
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1053,
+												1057
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1028,
+												1032
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content"
 									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1766,
+												1770
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												17,
+												21
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"default_extension": "html",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 216.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/ICP/html/regist.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1982,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1471,
+										1471
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1477,
+												1478
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1463,
+												1464
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1476,
+												1477
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1463,
+												1464
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/F/ICP/html/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1970,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1970
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												642,
+												644
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												591,
+												593
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1965,
+												1969
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												17,
+												21
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
@@ -2082,20 +3042,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/Z/trade_new/application/web/pc/controller/UserController.php",
-							"semi_transient": true,
+							"buffer": 5,
+							"file": "/F/ICP/html/detail1.html",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 13984,
+								"buffer_size": 1157,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										528,
-										528
+										342,
+										342
 									]
 								],
 								"settings":
@@ -2119,16 +3079,36 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -2139,36 +3119,204 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 6,
+							"file": "/F/ICP/css/index.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1366,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1342,
+										1342
+									]
+								],
+								"settings":
+								{
+									"SL.24.region_keys":
+									[
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -2181,8 +3329,8 @@
 										{
 											"1":
 											[
-												569,
-												570
+												1364,
+												1365
 											]
 										},
 										"icon":
@@ -2197,8 +3345,8 @@
 										{
 											"1":
 											[
-												527,
-												528
+												1337,
+												1338
 											]
 										},
 										"unmatched":
@@ -2207,16 +3355,36 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -2227,90 +3395,81 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content"
 									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"open_with_edit": true,
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 370.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
+						},
 						{
-							"buffer": 2,
+							"buffer": 7,
+							"file": "/F/ICP/js/login.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1922,
+								"buffer_size": 993,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										62,
-										51
+										713,
+										713
 									]
 								],
 								"settings":
 								{
-									"auto_indent": false,
+									"SL.21.region_keys":
+									[
+									],
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
 									"bracket_highlighter.clone_locations":
 									{
 										"close":
 										{
+											"1":
+											[
+												327,
+												328
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												94,
+												95
+											]
 										},
 										"unmatched":
 										{
@@ -2318,16 +3477,36 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -2338,36 +3517,16 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -2378,12 +3537,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												719,
+												720
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												710,
+												711
+											]
 										},
 										"unmatched":
 										{
@@ -2391,16 +3565,36 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -2411,52 +3605,241 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content"
 									],
-									"default_dir": "Z:\\trade_new\\application\\web\\pc\\controller",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/F/ICP/css/common.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2613,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2352,
+										2352
+									]
+								],
+								"settings":
+								{
+									"SL.18.region_keys":
+									[
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2660,
+												2661
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2639,
+												2640
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2421,
+												2422
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2350,
+												2351
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1458.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -2464,7 +3847,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -2490,7 +3873,7 @@
 				"cols":
 				[
 					0.0,
-					0.571211705673,
+					0.517119244392,
 					1.0
 				],
 				"rows":
@@ -2506,7 +3889,7 @@
 			},
 			"output.SublimeLinter Messages":
 			{
-				"height": 213.0
+				"height": 133.0
 			},
 			"output.doc":
 			{
@@ -2533,23 +3916,19 @@
 				"height": 145.0
 			},
 			"pinned_build_system": "Packages/User/javascript.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,1080,150,122,1654",
-			"project": "trade.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,1203,448,247,1923",
+			"project": "study.sublime-project",
 			"replace":
 			{
-				"height": 50.0
+				"height": 52.0
 			},
-			"save_all_on_build": true,
+			"save_all_on_build": false,
 			"select_file":
 			{
 				"height": 0.0,
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"UserMode",
-						"trade_new\\application\\common\\model\\UserModel.php"
-					],
 					[
 						"webpack-zepto",
 						"F\\overseas-vue\\local\\node_modules\\webpack-zepto\\index.js"
@@ -2607,7 +3986,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -2615,1325 +3994,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 279.0,
+			"side_bar_width": 226.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 195,
-			"workspace_name": "/F/subline-project/trade.sublime-workspace"
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"pay",
-						"payKind"
-					],
-					[
-						"tmp",
-						"tmpPic"
-					],
-					[
-						"file",
-						"fileName"
-					],
-					[
-						"margin",
-						"margin-left\tproperty"
-					],
-					[
-						"align",
-						"align-items\tproperty"
-					],
-					[
-						"bg",
-						"bg\tbackground: #${1:000};"
-					],
-					[
-						"pay_img",
-						"pay_img_data"
-					],
-					[
-						"rea",
-						"realname"
-					],
-					[
-						"load",
-						"loadEventEnd"
-					],
-					[
-						"qrcode",
-						"qrcodeDom"
-					],
-					[
-						"pa",
-						"padding-top\tproperty"
-					],
-					[
-						"padding",
-						"padding-right\tproperty"
-					],
-					[
-						"font",
-						"font-size\tproperty"
-					],
-					[
-						"magin",
-						"margin-top\tproperty"
-					],
-					[
-						"a",
-						"arrow.png\tw:17 h:9"
-					],
-					[
-						"inline",
-						"inline-block\tdisplay"
-					],
-					[
-						"marign",
-						"margin-left\tproperty"
-					],
-					[
-						"hieght",
-						"line-height\tproperty"
-					],
-					[
-						"op",
-						"opacity\tproperty"
-					],
-					[
-						"border",
-						"border-bottom\tproperty"
-					],
-					[
-						"fotn",
-						"font-size\tproperty"
-					],
-					[
-						"is",
-						"isUploaded"
-					],
-					[
-						"clsoe",
-						"closeIcon"
-					],
-					[
-						"n",
-						"none\tdisplay"
-					],
-					[
-						"bgc",
-						"background-color\tproperty"
-					],
-					[
-						"po",
-						"position\tproperty"
-					],
-					[
-						"pau",
-						"payNum"
-					],
-					[
-						"name",
-						"nameArr"
-					],
-					[
-						"fot",
-						"font-size\tproperty"
-					],
-					[
-						"get",
-						"getObjectURL"
-					],
-					[
-						"text",
-						"text-align\tproperty"
-					],
-					[
-						"phone",
-						"phoneLock"
-					],
-					[
-						"max",
-						"maxNumLock"
-					],
-					[
-						"repass",
-						"repasswordLock"
-					],
-					[
-						"newPass",
-						"newPasswordLock"
-					],
-					[
-						"old",
-						"oldPasswordLock"
-					],
-					[
-						"tips",
-						"tipsDom"
-					],
-					[
-						"id",
-						"identifyingCodeLock"
-					],
-					[
-						"repa",
-						"rePasswordLock"
-					],
-					[
-						"emial",
-						"emailLock"
-					],
-					[
-						"pass",
-						"passwordLock"
-					],
-					[
-						"email",
-						"emailLock"
-					],
-					[
-						"inlin",
-						"inline-block\tdisplay"
-					],
-					[
-						"in",
-						"intDiff"
-					],
-					[
-						"stop",
-						"stopPropagation"
-					],
-					[
-						"remvoe",
-						"removeClass\t.removeClass()"
-					],
-					[
-						"no",
-						"nowrap\twhite-space"
-					],
-					[
-						"box",
-						"box-shadow\tproperty"
-					],
-					[
-						"slide",
-						"slideToggle\t.slideToggle()"
-					],
-					[
-						"toggle",
-						"toggleClass\t.toggleClass()"
-					],
-					[
-						"add",
-						"addClass\t.addClass()"
-					],
-					[
-						"iline",
-						"inline-block\tdisplay"
-					],
-					[
-						"parse",
-						"parseFloat"
-					],
-					[
-						"move",
-						"moveLeft"
-					],
-					[
-						"new",
-						"newValue"
-					],
-					[
-						"per",
-						"percentageNum"
-					],
-					[
-						"b",
-						"block\tdisplay"
-					],
-					[
-						"shiw",
-						"showRegisterPanel"
-					],
-					[
-						"show",
-						"showLoginPanel"
-					],
-					[
-						"font-sty",
-						"font-synthesis\tproperty"
-					],
-					[
-						"user",
-						"userModule"
-					],
-					[
-						"send",
-						"sendCodeHtml"
-					],
-					[
-						"rePass",
-						"rePasswordTips"
-					],
-					[
-						"sho",
-						"showLogin"
-					],
-					[
-						"password",
-						"passwordTips"
-					],
-					[
-						"flo",
-						"float\tproperty"
-					],
-					[
-						"marg",
-						"margin-left\tproperty"
-					],
-					[
-						"cur",
-						"cursor\tproperty"
-					],
-					[
-						"re",
-						"relative\tposition"
-					],
-					[
-						"color",
-						"color\tproperty"
-					],
-					[
-						"ce",
-						"center\ttext-align"
-					],
-					[
-						"ab",
-						"absolute\tposition"
-					],
-					[
-						"margn",
-						"margin-right\tproperty"
-					],
-					[
-						"translate",
-						"translateX()\ttransform"
-					],
-					[
-						"path",
-						"pathname"
-					],
-					[
-						"html",
-						"htmlArr"
-					],
-					[
-						"index",
-						"indexOf"
-					],
-					[
-						"entry",
-						"entryArr"
-					],
-					[
-						"latest",
-						"latest_file_mtime"
-					],
-					[
-						"dll_mai",
-						"dll_manifest_name"
-					],
-					[
-						"clean",
-						"cleanDir"
-					],
-					[
-						"base",
-						"basePageOutput"
-					],
-					[
-						"output",
-						"outputPublicDir"
-					],
-					[
-						"create",
-						"createElement〔function〕"
-					],
-					[
-						"content",
-						"contentType"
-					],
-					[
-						"background",
-						"background-repeat"
-					],
-					[
-						"input",
-						"input"
-					],
-					[
-						"chapter",
-						"chapterData"
-					],
-					[
-						"course",
-						"courseData"
-					],
-					[
-						"video",
-						"videoTitle"
-					],
-					[
-						"fun",
-						"function〔keyword〕"
-					],
-					[
-						"img",
-						"imgLink"
-					],
-					[
-						"bu",
-						"button"
-					],
-					[
-						"NAME",
-						"name"
-					],
-					[
-						"my",
-						"myObj"
-					],
-					[
-						"share",
-						"shareContent"
-					],
-					[
-						"start",
-						"startTime"
-					],
-					[
-						"line",
-						"line-height"
-					],
-					[
-						"inine",
-						"inline-block"
-					],
-					[
-						"f",
-						"fadeToggle\t.fadeToggle()"
-					],
-					[
-						"document",
-						"document.getElementById('bodymovin').onclick"
-					],
-					[
-						"animate",
-						"animateSVG〔variable〕"
-					],
-					[
-						"body",
-						"bodymovin"
-					],
-					[
-						"data",
-						"$dataProvider〔variable〕"
-					],
-					[
-						"dir",
-						"dirArr〔variable〕"
-					],
-					[
-						"dll_",
-						"dll_manifest"
-					],
-					[
-						"package",
-						"packageId〔variable〕"
-					],
-					[
-						"v",
-						"vue/"
-					],
-					[
-						"webkit-border",
-						"-webkit-border-radius: 〔property〕"
-					],
-					[
-						"draggable",
-						"draggableMove"
-					],
-					[
-						"bar",
-						"barScrollTopPrev"
-					],
-					[
-						"scroll",
-						"scrollTop\t.scrollTop()"
-					],
-					[
-						"overflow",
-						"overflow-y"
-					],
-					[
-						"list",
-						"list-style"
-					],
-					[
-						"over",
-						"overflow-y"
-					],
-					[
-						"action",
-						"actionAttention"
-					],
-					[
-						"activity",
-						"activityInfo"
-					],
-					[
-						"follow",
-						"follow_btn"
-					],
-					[
-						"prev",
-						"prevList〔variable〕"
-					],
-					[
-						"last",
-						"lastList"
-					],
-					[
-						"mod",
-						"modRank"
-					],
-					[
-						"ghost",
-						"ghost-avatar"
-					],
-					[
-						"svg",
-						"svgSrc"
-					],
-					[
-						"gift",
-						"giftNum"
-					],
-					[
-						"avatar",
-						"avatar_wrap"
-					],
-					[
-						"font-",
-						"font-size"
-					],
-					[
-						"class",
-						"className"
-					],
-					[
-						"mar",
-						"margin-top"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "[\n\t{ \"keys\": [\"ctrl+shift+n\"], \"command\": \"new_window\" },\n\t{ \"keys\": [\"ctrl+shift+w\"], \"command\": \"close_window\" },\n\t{ \"keys\": [\"ctrl+o\"], \"command\": \"prompt_open_file\" },\n\t{ \"keys\": [\"ctrl+shift+t\"], \"command\": \"reopen_last_file\" },\n\t{ \"keys\": [\"alt+o\"], \"command\": \"switch_file\", \"args\": {\"extensions\": [\"cpp\", \"cxx\", \"cc\", \"c\", \"hpp\", \"hxx\", \"hh\", \"h\", \"ipp\", \"inl\", \"m\", \"mm\"]} },\n\t{ \"keys\": [\"ctrl+n\"], \"command\": \"new_file\" },\n\t{ \"keys\": [\"ctrl+s\"], \"command\": \"save\" },\n\t{ \"keys\": [\"ctrl+shift+s\"], \"command\": \"prompt_save_as\" },\n\t{ \"keys\": [\"ctrl+f4\"], \"command\": \"close_file\" },\n\t{ \"keys\": [\"ctrl+w\"], \"command\": \"close\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+b\"], \"command\": \"toggle_side_bar\" },\n\t{ \"keys\": [\"f11\"], \"command\": \"toggle_full_screen\" },\n\t{ \"keys\": [\"shift+f11\"], \"command\": \"toggle_distraction_free\" },\n\n\t{ \"keys\": [\"backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"shift+backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"delete\"], \"command\": \"right_delete\" },\n\t{ \"keys\": [\"enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\n\t{ \"keys\": [\"ctrl+z\"], \"command\": \"undo\" },\n\t{ \"keys\": [\"ctrl+shift+z\"], \"command\": \"redo\" },\n\t{ \"keys\": [\"ctrl+y\"], \"command\": \"redo_or_repeat\" },\n\t{ \"keys\": [\"ctrl+u\"], \"command\": \"soft_undo\" },\n\t{ \"keys\": [\"ctrl+shift+u\"], \"command\": \"soft_redo\" },\n\n\t{ \"keys\": [\"shift+delete\"], \"command\": \"cut\" },\n\t{ \"keys\": [\"ctrl+insert\"], \"command\": \"copy\" },\n\t{ \"keys\": [\"shift+insert\"], \"command\": \"paste\" },\n\t{ \"keys\": [\"ctrl+x\"], \"command\": \"cut\" },\n\t{ \"keys\": [\"ctrl+c\"], \"command\": \"copy\" },\n\t{ \"keys\": [\"ctrl+v\"], \"command\": \"paste\" },\n\t{ \"keys\": [\"ctrl+shift+v\"], \"command\": \"paste_and_indent\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+v\"], \"command\": \"paste_from_history\" },\n\n\t{ \"keys\": [\"left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false} },\n\t{ \"keys\": [\"right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true} },\n\t{ \"keys\": [\"up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false} },\n\t{ \"keys\": [\"down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true} },\n\t{ \"keys\": [\"shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true, \"extend\": true} },\n\t{ \"keys\": [\"shift+up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"ctrl+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false} },\n\t{ \"keys\": [\"ctrl+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true} },\n\t{ \"keys\": [\"ctrl+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"ctrl+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"alt+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false} },\n\t{ \"keys\": [\"alt+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true} },\n\t{ \"keys\": [\"alt+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"alt+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"ctrl+alt+up\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+alt+down\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} },\n\n\t{ \"keys\": [\"pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false} },\n\t{ \"keys\": [\"pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true} },\n\t{ \"keys\": [\"shift+pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": false} },\n\t{ \"keys\": [\"end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": false} },\n\t{ \"keys\": [\"shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": true} },\n\t{ \"keys\": [\"shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": true} },\n\t{ \"keys\": [\"ctrl+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": false} },\n\t{ \"keys\": [\"ctrl+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": false} },\n\t{ \"keys\": [\"ctrl+shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": true} },\n\t{ \"keys\": [\"ctrl+shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": true} },\n\n\n\t{ \"keys\": [\"ctrl+up\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": 1.0 } },\n\t{ \"keys\": [\"ctrl+down\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": -1.0 } },\n\n\t{ \"keys\": [\"ctrl+pagedown\"], \"command\": \"next_view\" },\n\t{ \"keys\": [\"ctrl+pageup\"], \"command\": \"prev_view\" },\n\n\t{ \"keys\": [\"ctrl+tab\"], \"command\": \"next_view_in_stack\" },\n\t{ \"keys\": [\"ctrl+shift+tab\"], \"command\": \"prev_view_in_stack\" },\n\n\t{ \"keys\": [\"ctrl+a\"], \"command\": \"select_all\" },\n\t{ \"keys\": [\"ctrl+shift+l\"], \"command\": \"split_selection_into_lines\" },\n\t{ \"keys\": [\"escape\"], \"command\": \"single_selection\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"num_selections\", \"operator\": \"not_equal\", \"operand\": 1 }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_panel\", \"args\": {\"cancel\": true},\n\t\t\"context\":\n\t\t[\n\t\t\t{ \"key\": \"panel_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_overlay\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"overlay_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_popup\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"popup_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_auto_complete\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": true} },\n\t{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": false},\n\t\t\"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_match\", \"operand\": \".*\\\\b[0-9]+$\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"replace_completion_with_next_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"reindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"indent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"next_field\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"commit_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\" },\n\t\t\t{ \"key\": \"setting.auto_complete_commit_on_tab\" }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\t\"} },\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.shift_tab_unindent\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^[\\t ]*\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"prev_field\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+]\"], \"command\": \"indent\" },\n\t{ \"keys\": [\"ctrl+[\"], \"command\": \"unindent\" },\n\n\t{ \"keys\": [\"insert\"], \"command\": \"toggle_overwrite\" },\n\n\t{ \"keys\": [\"ctrl+l\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"line\"} },\n\t{ \"keys\": [\"ctrl+d\"], \"command\": \"find_under_expand\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+d\"], \"command\": \"find_under_expand_skip\" },\n\t{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n\t{ \"keys\": [\"ctrl+shift+m\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"brackets\"} },\n\t{ \"keys\": [\"ctrl+m\"], \"command\": \"move_to\", \"args\": {\"to\": \"brackets\"} },\n\t{ \"keys\": [\"ctrl+shift+j\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"indentation\"} },\n\t{ \"keys\": [\"ctrl+shift+a\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"tag\"} },\n\n\t{ \"keys\": [\"alt+.\"], \"command\": \"close_tag\" },\n\n\t{ \"keys\": [\"ctrl+q\"], \"command\": \"toggle_record_macro\" },\n\t{ \"keys\": [\"ctrl+shift+q\"], \"command\": \"run_macro\" },\n\n\t{ \"keys\": [\"ctrl+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"} },\n\t{ \"keys\": [\"enter\"], \"command\": \"commit_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\" },\n\t\t\t{ \"key\": \"setting.auto_complete_commit_on_tab\", \"operand\": false }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"show_files\": true} },\n\t{ \"keys\": [\"ctrl+shift+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"command_palette\"} },\n\t{ \"keys\": [\"ctrl+r\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"} },\n\t{ \"keys\": [\"ctrl+g\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \":\"} },\n\t{ \"keys\": [\"ctrl+;\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"#\"} },\n\t{ \"keys\": [\"f12\"], \"command\": \"goto_definition\" },\n\t{ \"keys\": [\"shift+f12\"], \"command\": \"goto_reference\" },\n\t{ \"keys\": [\"ctrl+shift+r\"], \"command\": \"goto_symbol_in_project\" },\n\t{ \"keys\": [\"alt+keypad_minus\"], \"command\": \"jump_back\" },\n\t{ \"keys\": [\"alt+shift+keypad_minus\"], \"command\": \"jump_forward\" },\n\t{ \"keys\": [\"alt+-\"], \"command\": \"jump_back\" },\n\t{ \"keys\": [\"alt+shift+-\"], \"command\": \"jump_forward\" },\n\n\t{ \"keys\": [\"ctrl+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+shift+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": true} },\n\t{ \"keys\": [\"ctrl+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+h\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"replace\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+shift+h\"], \"command\": \"replace_next\" },\n\t{ \"keys\": [\"f3\"], \"command\": \"find_next\" },\n\t{ \"keys\": [\"shift+f3\"], \"command\": \"find_prev\" },\n\t{ \"keys\": [\"ctrl+f3\"], \"command\": \"find_under\" },\n\t{ \"keys\": [\"ctrl+shift+f3\"], \"command\": \"find_under_prev\" },\n\t{ \"keys\": [\"alt+f3\"], \"command\": \"find_all_under\" },\n\t{ \"keys\": [\"ctrl+e\"], \"command\": \"slurp_find_string\" },\n\t{ \"keys\": [\"ctrl+shift+e\"], \"command\": \"slurp_replace_string\" },\n\t{ \"keys\": [\"ctrl+shift+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find_in_files\"} },\n\t{ \"keys\": [\"f4\"], \"command\": \"next_result\" },\n\t{ \"keys\": [\"shift+f4\"], \"command\": \"prev_result\" },\n\n\t{ \"keys\": [\"f6\"], \"command\": \"toggle_setting\", \"args\": {\"setting\": \"spell_check\"} },\n\t{ \"keys\": [\"ctrl+f6\"], \"command\": \"next_misspelling\" },\n\t{ \"keys\": [\"ctrl+shift+f6\"], \"command\": \"prev_misspelling\" },\n\n\t{ \"keys\": [\"ctrl+shift+up\"], \"command\": \"swap_line_up\" },\n\t{ \"keys\": [\"ctrl+shift+down\"], \"command\": \"swap_line_down\" },\n\n\t{ \"keys\": [\"ctrl+backspace\"], \"command\": \"delete_word\", \"args\": { \"forward\": false } },\n\t{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\n\t{ \"keys\": [\"ctrl+delete\"], \"command\": \"delete_word\", \"args\": { \"forward\": true } },\n\t{ \"keys\": [\"ctrl+shift+delete\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\n\t{ \"keys\": [\"ctrl+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": false } },\n\t{ \"keys\": [\"ctrl+shift+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": true } },\n\n\t{ \"keys\": [\"ctrl+j\"], \"command\": \"join_lines\" },\n\t{ \"keys\": [\"ctrl+shift+d\"], \"command\": \"duplicate_line\" },\n\n\t{ \"keys\": [\"ctrl+`\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"console\", \"toggle\": true} },\n\n\t{ \"keys\": [\"ctrl+space\"], \"command\": \"auto_complete\" },\n\t{ \"keys\": [\"ctrl+space\"], \"command\": \"replace_completion_with_auto_complete\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n\t\t\t{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": false },\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+alt+shift+p\"], \"command\": \"show_scope_name\" },\n\n\t{ \"keys\": [\"f7\"], \"command\": \"build\" },\n\t{ \"keys\": [\"ctrl+b\"], \"command\": \"build\" },\n\t{ \"keys\": [\"ctrl+shift+b\"], \"command\": \"build\", \"args\": {\"select\": true} },\n\t{ \"keys\": [\"ctrl+break\"], \"command\": \"cancel_build\" },\n\n\t{ \"keys\": [\"ctrl+t\"], \"command\": \"transpose\" },\n\n\t{ \"keys\": [\"f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": false} },\n\t{ \"keys\": [\"ctrl+f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": true} },\n\n\t// Auto-pair quotes\n\t{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"$0\\\"\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"[\\\"a-zA-Z0-9_]$\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"${0:$SELECTION}\\\"\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"\\\"\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\"$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\n\t// Auto-pair single quotes\n\t{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'$0'\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"['a-zA-Z0-9_]$\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'${0:$SELECTION}'\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"'\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"'$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\n\t// Auto-pair brackets\n\t{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"($0)\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"(${0:$SELECTION})\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\")\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\($\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n\t\t]\n\t},\n\n\t// Auto-pair square brackets\n\t{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[$0]\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[${0:$SELECTION}]\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"]\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\[$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n\t\t]\n\t},\n\n\t// Auto-pair curly brackets\n\t{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{$0}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"{\"], \"command\": \"wrap_block\", \"args\": {\"begin\": \"{\", \"end\": \"}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"indented_block\", \"match_all\": true },\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{${0:$SELECTION}}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"}\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"enter\"], \"command\": \"auto_indent_tag\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"auto_indent_tag\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n\t\t]\n\t},\n\n\t{\n\t\t\"keys\": [\"alt+shift+1\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+2\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.5, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+3\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.33, 0.66, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+4\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.25, 0.5, 0.75, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1], [3, 0, 4, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+8\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 0.5, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+9\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 0.33, 0.66, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2], [0, 2, 1, 3]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+5\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.5, 1.0],\n\t\t\t\"rows\": [0.0, 0.5, 1.0],\n\t\t\t\"cells\":\n\t\t\t[\n\t\t\t\t[0, 0, 1, 1], [1, 0, 2, 1],\n\t\t\t\t[0, 1, 1, 2], [1, 1, 2, 2]\n\t\t\t]\n\t\t}\n\t},\n\t{ \"keys\": [\"ctrl+1\"], \"command\": \"focus_group\", \"args\": { \"group\": 0 } },\n\t{ \"keys\": [\"ctrl+2\"], \"command\": \"focus_group\", \"args\": { \"group\": 1 } },\n\t{ \"keys\": [\"ctrl+3\"], \"command\": \"focus_group\", \"args\": { \"group\": 2 } },\n\t{ \"keys\": [\"ctrl+4\"], \"command\": \"focus_group\", \"args\": { \"group\": 3 } },\n\t{ \"keys\": [\"ctrl+5\"], \"command\": \"focus_group\", \"args\": { \"group\": 4 } },\n\t{ \"keys\": [\"ctrl+6\"], \"command\": \"focus_group\", \"args\": { \"group\": 5 } },\n\t{ \"keys\": [\"ctrl+7\"], \"command\": \"focus_group\", \"args\": { \"group\": 6 } },\n\t{ \"keys\": [\"ctrl+8\"], \"command\": \"focus_group\", \"args\": { \"group\": 7 } },\n\t{ \"keys\": [\"ctrl+9\"], \"command\": \"focus_group\", \"args\": { \"group\": 8 } },\n\t{ \"keys\": [\"ctrl+shift+1\"], \"command\": \"move_to_group\", \"args\": { \"group\": 0 } },\n\t{ \"keys\": [\"ctrl+shift+2\"], \"command\": \"move_to_group\", \"args\": { \"group\": 1 } },\n\t{ \"keys\": [\"ctrl+shift+3\"], \"command\": \"move_to_group\", \"args\": { \"group\": 2 } },\n\t{ \"keys\": [\"ctrl+shift+4\"], \"command\": \"move_to_group\", \"args\": { \"group\": 3 } },\n\t{ \"keys\": [\"ctrl+shift+5\"], \"command\": \"move_to_group\", \"args\": { \"group\": 4 } },\n\t{ \"keys\": [\"ctrl+shift+6\"], \"command\": \"move_to_group\", \"args\": { \"group\": 5 } },\n\t{ \"keys\": [\"ctrl+shift+7\"], \"command\": \"move_to_group\", \"args\": { \"group\": 6 } },\n\t{ \"keys\": [\"ctrl+shift+8\"], \"command\": \"move_to_group\", \"args\": { \"group\": 7 } },\n\t{ \"keys\": [\"ctrl+shift+9\"], \"command\": \"move_to_group\", \"args\": { \"group\": 8 } },\n\t{ \"keys\": [\"ctrl+0\"], \"command\": \"focus_side_bar\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+up\"], \"command\": \"new_pane\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+up\"], \"command\": \"new_pane\", \"args\": {\"move\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+down\"], \"command\": \"close_pane\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+left\"], \"command\": \"focus_neighboring_group\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+right\"], \"command\": \"focus_neighboring_group\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+left\"], \"command\": \"move_to_neighboring_group\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+right\"], \"command\": \"move_to_neighboring_group\" },\n\n\t{ \"keys\": [\"alt+1\"], \"command\": \"select_by_index\", \"args\": { \"index\": 0 } },\n\t{ \"keys\": [\"alt+2\"], \"command\": \"select_by_index\", \"args\": { \"index\": 1 } },\n\t{ \"keys\": [\"alt+3\"], \"command\": \"select_by_index\", \"args\": { \"index\": 2 } },\n\t{ \"keys\": [\"alt+4\"], \"command\": \"select_by_index\", \"args\": { \"index\": 3 } },\n\t{ \"keys\": [\"alt+5\"], \"command\": \"select_by_index\", \"args\": { \"index\": 4 } },\n\t{ \"keys\": [\"alt+6\"], \"command\": \"select_by_index\", \"args\": { \"index\": 5 } },\n\t{ \"keys\": [\"alt+7\"], \"command\": \"select_by_index\", \"args\": { \"index\": 6 } },\n\t{ \"keys\": [\"alt+8\"], \"command\": \"select_by_index\", \"args\": { \"index\": 7 } },\n\t{ \"keys\": [\"alt+9\"], \"command\": \"select_by_index\", \"args\": { \"index\": 8 } },\n\t{ \"keys\": [\"alt+0\"], \"command\": \"select_by_index\", \"args\": { \"index\": 9 } },\n\n\t{ \"keys\": [\"f2\"], \"command\": \"next_bookmark\" },\n\t{ \"keys\": [\"shift+f2\"], \"command\": \"prev_bookmark\" },\n\t{ \"keys\": [\"ctrl+f2\"], \"command\": \"toggle_bookmark\" },\n\t{ \"keys\": [\"ctrl+shift+f2\"], \"command\": \"clear_bookmarks\" },\n\t{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n\t{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n\t{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+space\"], \"command\": \"set_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+a\"], \"command\": \"select_to_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+w\"], \"command\": \"delete_to_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+x\"], \"command\": \"swap_with_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+y\"], \"command\": \"yank\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+g\"], \"command\": \"clear_bookmarks\", \"args\": {\"name\": \"mark\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+c\"], \"command\": \"show_at_center\" },\n\n\t{ \"keys\": [\"ctrl++\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+=\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+keypad_plus\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+-\"], \"command\": \"decrease_font_size\" },\n\t{ \"keys\": [\"ctrl+keypad_minus\"], \"command\": \"decrease_font_size\" },\n\n\t{ \"keys\": [\"ctrl+equals\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+shift+equals\"], \"command\": \"decrease_font_size\" },\n\t{ \"keys\": [\"ctrl+shift+keypad_plus\"], \"command\": \"decrease_font_size\" },\n\n\t{ \"keys\": [\"alt+shift+w\"], \"command\": \"insert_snippet\", \"args\": { \"name\": \"Packages/XML/Snippets/long-tag.sublime-snippet\" } },\n\n\t{ \"keys\": [\"ctrl+shift+[\"], \"command\": \"fold\" },\n\t{ \"keys\": [\"ctrl+shift+]\"], \"command\": \"unfold\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+0\"], \"command\": \"unfold_all\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+j\"], \"command\": \"unfold_all\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+t\"], \"command\": \"fold_tag_attributes\" },\n\n\t{ \"keys\": [\"context_menu\"], \"command\": \"context_menu\" },\n\n\t{ \"keys\": [\"alt+c\"], \"command\": \"toggle_case_sensitive\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+r\"], \"command\": \"toggle_regex\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+w\"], \"command\": \"toggle_whole_word\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+a\"], \"command\": \"toggle_preserve_case\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t// Find panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Replace panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t\"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\", \"args\": {\"close_panel\": true},\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Incremental find panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"hide_panel\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t\"context\": [{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Find in Files panel key bindings\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\",\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find_in_files\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\",\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find_in_files\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// HTML, XML close tag\n\t{ \"keys\": [\"/\"], \"command\": \"close_tag\", \"args\": { \"insert_slash\": true }, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"(text.html, text.xml) - string - comment\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \".*<$\", \"match_all\": true },\n\t\t\t{ \"key\": \"setting.auto_close_tags\" }\n\t\t]\n\t}\n]\n",
-					"file": "/D/Program Files/SublimeText3/Data/Packages/Default/Default (Windows).sublime-keymap",
-					"file_size": -1,
-					"file_write_time": -1,
-					"settings":
-					{
-						"buffer_size": 36307,
-						"line_ending": "Unix",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/D/Program Files/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 3886,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 342.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"pac",
-						"Package Control: List Packages"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"pa",
-						"Package Control: List Packages"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"git sta",
-						"Git: Status"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git log",
-						"Git: Log All"
-					],
-					[
-						"git ",
-						"Git: Gui"
-					],
-					[
-						"git status",
-						"Git: Status"
-					],
-					[
-						"git pull",
-						"Git: Pull"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"Pa",
-						"Package Control: List Packages"
-					],
-					[
-						"install",
-						"Package Control: Install Local Dependency"
-					]
-				],
-				"width": 510.0
-			},
-			"console":
-			{
-				"height": 383.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/Program Files/SublimeText3/Data/Packages/User/TortoiseSVN.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
-				"/E/Study/Nodejs/nodeWeb/server.js",
-				"/Z/trade_new/gulp/gulpfile.js",
-				"/E/Study/Nodejs/node.js进阶教程.md",
-				"/Z/trade_new/gulp/src/mobile/js/user/accountSafe.js",
-				"/Z/trade_new/gulp/src/mobile/js/wallet/checkout.js",
-				"/Z/trade_new/gulp/src/mobile/js/login/forgetPassword.js",
-				"/D/Program Files/SublimeText3/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/User/Package Control.sublime-settings",
-				"/Z/trade_new/public/mobile/css/chat/index.css",
-				"/Z/trade_new/public/mobile/js/ad/add.js",
-				"/Z/trade_new/gulp/src/mobile/js/login/register.js",
-				"/Z/trade_new/public/mobile/js/login/register.js",
-				"/Z/trade_new/gulp/package.json",
-				"/Z/trade_new/public/mobile/css/user/setPay.less",
-				"/Z/trade_new/application/web/pc/view/user/setPay_m.html",
-				"/Z/trade_new/application/web/pc/view/user/setPay.html",
-				"/Z/trade_new/application/web/pc/controller/UserController.php",
-				"/Z/trade_new/application/web/pc/view/ad/add.html",
-				"/Z/trade_new/public/pc/js/index/index.js",
-				"/Z/trade_new/gulp/rev/pc/rev-manifest.json",
-				"/Z/trade_new/gulp/src/pc/js/login/register.js",
-				"/Z/trade_new/gulp/src/pc/js/user/accountSafe.js",
-				"/Z/trade_new/gulp/src/pc/js/login/forgetPassword.js",
-				"/Z/trade_new/gulp/rev/pc/js/rev-manifest.json",
-				"/Z/trade_new/public/pc/js/login/register.js",
-				"/Z/trade_new/public/pc/js/login/index.js",
-				"/Z/trade_new/public/pc/css/user/account.css",
-				"/Z/trade_new/public/mobile/js/user/setPay.js",
-				"/Z/trade_new/gulp/src/pc/js/ad/add.js",
-				"/Z/trade_new/public/pc/js/user/setPay.js",
-				"/Z/trade_new/public/pc/js/user/accountSafe.js",
-				"/Z/trade_new/public/pc/js/login/forgetPassword.js",
-				"/Z/trade_new/gulp/src/pc/js/wallet/checkout.js",
-				"/Z/trade_new/public/pc/js/ad/detail.js",
-				"/Z/trade_new/public/pc/js/ad/add.js",
-				"/F/guojiang/source/gulp-disk/gulpfile.js",
-				"/F/guojiang/source/gulp-disk/package.json",
-				"/Z/trade_new/public/index.php",
-				"/Z/trade_new/application/web/pc/view/common/order_chat.html",
-				"/Z/trade_new/public/pc/html/privacy.html",
-				"/Z/trade_new/public/pc/html/term.html",
-				"/Z/trade_new/application/web/pc/view/common/header.html",
-				"/Z/trade_new/application/common/model/UserModel.php",
-				"/C/Users/Administrator/Desktop/vue-skeleton-master/src/xgSkeleton.js",
-				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/mobile/v2/js/activity/beibei.js",
-				"/F/guojiang/xingguang/xingguang/static_guojiang_tv/src/mobile/v2/js/activity/midAutumnDay.js",
-				"/Z/trade_new/trade_add.sql",
-				"/E/Study/Vue/srcCode/vue/src/core/index.js",
-				"/E/Study/Vue/srcCode/vue2.5.13.js",
-				"/Z/trade_new/public/pc/css/user/user.css",
-				"/Z/trade_new/public/pc/js/user/tradeAccount.js",
-				"/Z/trade_new/application/web/pc/view/order/info.html",
-				"/Z/trade_new/application/web/pc/view/common/user.html",
-				"/Z/trade_new/application/web/pc/view/wallet/recharge.html",
-				"/Z/trade_new/public/pc/css/user/user2.css",
-				"/Z/trade_new/public/pc/css/ad/add.css",
-				"/Z/trade_new/application/web/pc/view/user/security.html",
-				"/E/trade/Public/trade-static/html/user/invite.html",
-				"/Z/trade_new/application/web/pc/view/invite/index.html",
-				"/Z/trade_new/application/web/pc/view/wallet/checkoutHistory.html",
-				"/Z/trade_new/application/web/pc/view/user/tradeAccount.html",
-				"/Z/trade_new/application/web/pc/view/wallet/index.html",
-				"/Z/trade_new/application/web/pc/view/wallet/checkout.html",
-				"/Z/trade_new/application/web/pc/view/wallet/rechargeHistory.html",
-				"/Z/trade_new/application/web/pc/view/trade/index.html",
-				"/Z/trade_new/application/web/pc/view/common/footer.html",
-				"/Z/trade_new/application/web/pc/view/index/index.html",
-				"/Z/trade_new/public/mobile/js/chat/index.js",
-				"/Z/trade_new/public/mobile/css/chat/index.less",
-				"/Z/trade_new/application/web/pc/controller/ChatController.php",
-				"/Z/trade_new/application/web/pc/view/chat/index_m.html",
-				"/Z/trade_new/application/web/pc/view/ad/detail.html",
-				"/Z/trade_new/public/mobile/css/newad/sell.less",
-				"/Z/trade_new/public/pc/css/user/accountSafe.css",
-				"/Z/trade_new/application/web/pc/view/search/index_m.html",
-				"/Z/trade_new/public/mobile/css/trade/searchResult.less",
-				"/F/guojiang/xingguang/package.json",
-				"/F/guojiang/nginx/conf/project/xingguang.conf",
-				"/F/guojiang/nginx/conf/nginx.conf",
-				"/F/guojiang/nginx/conf/ssl/xingguang.conf",
-				"/Z/trade_new/application/web/pc/controller/SearchController.php",
-				"/Z/trade_new/application/web/pc/controller/TradeController.php",
-				"/E/trade/Public/trade-static/App/html/trade/searchResult.html",
-				"/Z/trade_new/application/web/pc/view/trade/index_m.html",
-				"/Z/trade_new/application/web/pc/view/user/tradeAccount_m.html",
-				"/D/Program Files/SublimeText3/Data/Packages/User/SVN.sublime-settings",
-				"/D/Program Files/SublimeText3/Data/Packages/SVN/SVN.sublime-settings",
-				"/Z/trade_new/application/web/pc/view/common/user_nav.html",
-				"/D/Documents/NetSarang/Xftp/Temporary/security.html",
-				"/E/trade/Application/Home/View/Index/a/index.html",
-				"/Z/trade_new/public/pc/css/common/common.css",
-				"/Z/trade_new/public/pc/css/ad/detail.css",
-				"/Z/trade_new/application/web/pc/controller/AdController.php",
-				"/Z/trade_new/application/web/pc/view/index/index_m.html",
-				"/Z/trade_new/public/pc/css/login/register.css",
-				"/Z/trade_new/public/pc/css/login/index.css",
-				"/E/Study/Electron/0906-smy-electorn/electron-quick-start/index.html",
-				"/Z/trade_new/public/pc/css/help/main.css",
-				"/E/Test/webTest/js/index.js",
-				"/E/Test/webTest/js/demo.js",
-				"/E/Test/webTest/demo.html",
-				"/E/Test/webTest/index.html",
-				"/D/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
-				"/D/wamp64/bin/apache/apache2.4.27/conf/httpd.conf",
-				"/D/wamp64/alias/test - 副本.conf",
-				"/D/wamp64/alias/test.conf",
-				"/F/guojiang/naus/package.json",
-				"/F/guojiang/naus/README.md",
-				"/F/guojiang/naus/.eslintrc.js",
-				"/Z/trade_new/public/user.php",
-				"/E/trade.sql",
-				"/Z/trade_new/application/web/pc/controller/IndexController.php",
-				"/Z/trade_new/application/web/pc/controller/LoginController.php",
-				"/Z/trade_new/application/web/pc/view/login/index.html",
-				"/Z/trade_new/application/web/pc/controller/InviteController.php",
-				"/C/Users/Administrator/.viminfo",
-				"/C/Users/Administrator/.eslint_d",
-				"/C/Users/Administrator/.gitconfig",
-				"/E/trade/Public/trade-static/css/trade/buy.css",
-				"/E/trade/Public/trade-static/html/index/index.html",
-				"/E/trade/Public/trade-static/html/trade/buy.html",
-				"/E/trade/Public/trade-static/App/html/user/aboutMe.html",
-				"/E/trade/Public/trade-static/App/html/user/help.html",
-				"/E/trade/Public/trade-static/App/html/help/how-to-registe.html",
-				"/E/trade/Public/trade-static/App/html/user/myprice.html",
-				"/Z/trade_new/conf/application.ini"
-			],
-			"find":
-			{
-				"height": 27.0
-			},
-			"find_in_files":
-			{
-				"height": 118.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/D/Program Files/SublimeText3/Data/Packages/Default/Default (Windows).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 36307,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										36307,
-										36307
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"edit_settings_other_view_id": 63,
-									"edit_settings_view": "base",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/D/Program Files/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3886,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3012,
-										3012
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												3745,
-												3746
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												0,
-												1
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												3885,
-												3886
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												0,
-												1
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"edit_settings_other_view_id": 62,
-									"edit_settings_view": "user",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1260.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 27.0
-			},
-			"input":
-			{
-				"height": 43.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.SublimeLinter":
-			{
-				"height": 0.0
-			},
-			"output.SublimeLinter Messages":
-			{
-				"height": 213.0
-			},
-			"output.doc":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 249.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git":
-			{
-				"height": 105.0
-			},
-			"output.mdpopups":
-			{
-				"height": 0.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 145.0
-			},
-			"pinned_build_system": "Packages/User/javascript.sublime-build",
-			"position": "0,0,1,-1,-1,-1,-1,1191,-398,233,1105",
-			"project": "",
-			"replace":
-			{
-				"height": 50.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"UserMode",
-						"trade_new\\application\\common\\model\\UserModel.php"
-					],
-					[
-						"webpack-zepto",
-						"F\\overseas-vue\\local\\node_modules\\webpack-zepto\\index.js"
-					],
-					[
-						"vue.min.js",
-						"F\\overseas-vue\\local\\node_modules\\vue\\dist\\vue.min.js"
-					],
-					[
-						"roomv4controller",
-						"videochat\\web\\protected\\controllers\\RoomV4Controller.php"
-					],
-					[
-						"croom",
-						"videochat\\web\\protected\\components\\CRoom.php"
-					],
-					[
-						"roomactivity.js",
-						"static_guojiang_tv\\pc\\js\\room\\roomActivity.js"
-					],
-					[
-						"storec",
-						"videochat\\web\\protected\\controllers\\StoreController.php"
-					],
-					[
-						"cuser",
-						"videochat\\web\\protected\\components\\CUser.php"
-					],
-					[
-						"marktingactivityaxi",
-						"videochat\\web\\protected\\components\\MarktingActivityAxi.php"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"F:\\work.sublime-workspace"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 1,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 279.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 196,
-			"workspace_name": ""
+			"window_id": 222,
+			"workspace_name": "/F/subline-project/study.sublime-workspace"
 		}
 	],
 	"workspaces":
@@ -3943,12 +4010,12 @@
 			"/F/subline-project/study.sublime-workspace",
 			"/F/subline-project/trade.sublime-workspace",
 			"/F/subline-project/guojiang.sublime-workspace",
+			"/F/subline-project/cblive.sublime-workspace",
+			"/F/subline-project/overseas.sublime-workspace",
+			"/F/subline-project/xingguang-app.sublime-workspace",
 			"/F/subline-project/xingguang-pc.sublime-workspace",
 			"/F/subline-project/naus.sublime-workspace",
-			"/F/subline-project/xingguang-app.sublime-workspace",
-			"/F/subline-project/cblive.sublime-workspace",
 			"/F/subline-project/boom.sublime-workspace",
-			"/F/subline-project/overseas.sublime-workspace",
 			"/F/modified.sublime-workspace"
 		]
 	}

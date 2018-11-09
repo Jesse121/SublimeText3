@@ -4,6 +4,25 @@
 */
 
 {
+    //HTTPS PROXY SETTINGS ////////////////////////////////////////////////////////////////////////////
+
+    //For license registration it is required to have a working connection to the internet. If you are
+    //behind a proxy, you may need to define the following settings. By default, if you are using
+    //Package Control, its settings will used if the ones below are not set.
+
+    //Proxy url in the following form: `domainname[:port]` or `ip[:port]`
+    //Defaults to Package Control's `https_proxy` setting
+    "https_proxy": "",
+
+    //Proxy username (if required)
+    //Defaults to Package Control's `proxy_username` setting
+    "proxy_username": "",
+
+    //Proxy password (if required)
+    //Defaults to Package Control's `proxy_password` setting
+    "proxy_password": "",
+
+
     //GENERAL /////////////////////////////////////////////////////////////////////////////////////////
 
     //EXPERIMENTAL! Defines whether or not the diff view should be displayed in current Sublime window.

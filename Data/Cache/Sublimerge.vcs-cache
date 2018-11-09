@@ -32,8 +32,10 @@
 			"E:\\trade",
 			"F:\\guojiang\\naus\\html",
 			"F:\\guojiang\\naus\\static",
-			"Z:\\videochat",
-			"Z:\\trade_new"
+			"F:\\guojiang\\overseas\\beta\\static_cblive",
+			"F:\\guojiang\\overseas\\beta\\html",
+			"F:\\guojiang\\overseas\\trunk\\static_cblive",
+			"F:\\guojiang\\overseas\\trunk\\html"
 		]
 	}
 }
