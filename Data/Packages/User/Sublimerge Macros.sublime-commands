@@ -1,86 +1,86 @@
 [
     {
         "caption": "Sublimerge: Show Uncommited Changes...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 0
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Compare to Other Branch...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 1
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Show Unpushed Changes...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 2
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Show Changes Between Current and Remote...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 3
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: List and Resolve Conflicts...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 4
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Resolve Conflicts in Current File",
-        "command": "sublimerge_macro",
         "args": {
             "run": 5
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Compare to Custom Git Command Output...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 6
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Show Uncommited Changes...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 7
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Compare to Custom SVN Command Output...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 8
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Show Uncommited Changes...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 9
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Compare to Named Branch...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 10
-        }
+        },
+        "command": "sublimerge_macro"
     },
     {
         "caption": "Sublimerge: Compare to Custom Hg Command Output...",
-        "command": "sublimerge_macro",
         "args": {
             "run": 11
-        }
+        },
+        "command": "sublimerge_macro"
     }
 ]
